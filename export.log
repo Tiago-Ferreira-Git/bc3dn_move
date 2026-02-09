@@ -1,0 +1,1208 @@
+2026-02-09 19:21:45,369 INFO  Logger.cs: 70 - 
+--------------------------------------------------------------------------------
+2026-02-09 19:21:45,391 INFO  Logger.cs: 71 - Logging commencing for SW2URDF exporter
+2026-02-09 19:21:45,392 INFO  Logger.cs: 73 - Commit version 1.6.0-4-g7f85cfe
+2026-02-09 19:21:45,392 INFO  Logger.cs: 74 - Build version 1.6.7995.38578
+2026-02-09 19:21:45,394 INFO  SwAddin.cs: 192 - Attempting to connect to SW
+2026-02-09 19:21:45,395 INFO  SwAddin.cs: 197 - Setting up callbacks
+2026-02-09 19:21:45,396 INFO  SwAddin.cs: 201 - Setting up command manager
+2026-02-09 19:21:45,396 INFO  SwAddin.cs: 204 - Adding command manager
+2026-02-09 19:21:45,399 INFO  SwAddin.cs: 263 - Adding Assembly export to file menu
+2026-02-09 19:21:45,402 INFO  SwAddin.cs: 272 - Adding Part export to file menu
+2026-02-09 19:21:45,402 INFO  SwAddin.cs: 210 - Adding event handlers
+2026-02-09 19:21:45,406 INFO  SwAddin.cs: 217 - Connecting plugin to SolidWorks
+2026-02-09 19:32:31,594 INFO  SwAddin.cs: 294 - Assembly export called for file BCN3D Moveo assembly
+2026-02-09 19:32:31,597 INFO  SwAddin.cs: 299 - Save is required
+2026-02-09 19:32:31,597 INFO  SwAddin.cs: 313 - Saving assembly
+2026-02-09 19:32:50,247 INFO  SwAddin.cs: 316 - Opening property manager
+2026-02-09 19:32:50,268 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from BCN3D Moveo assembly
+2026-02-09 19:32:50,281 INFO  ExportHelperExtension.cs: 1136 - Found 305 in BCN3D Moveo assembly
+2026-02-09 19:32:50,284 INFO  ExportHelperExtension.cs: 1145 - Found 1 features of type [CoordSys] in BCN3D Moveo assembly
+2026-02-09 19:32:50,285 INFO  ExportHelperExtension.cs: 1148 - Proceeding through assembly components
+2026-02-09 19:32:50,288 INFO  ExportHelperExtension.cs: 1160 - 84 components to check
+2026-02-09 19:32:50,290 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Rotary Plate-1
+2026-02-09 19:32:50,291 INFO  ExportHelperExtension.cs: 1136 - Found 66 in Rotary Plate-1
+2026-02-09 19:32:50,292 INFO  ExportHelperExtension.cs: 1145 - Found 1 features of type [CoordSys] in Rotary Plate-1
+2026-02-09 19:32:50,292 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-2
+2026-02-09 19:32:50,293 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-2
+2026-02-09 19:32:50,294 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-2
+2026-02-09 19:32:50,294 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-1
+2026-02-09 19:32:50,295 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-1
+2026-02-09 19:32:50,295 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-1
+2026-02-09 19:32:50,296 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x45-3
+2026-02-09 19:32:50,296 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-3
+2026-02-09 19:32:50,297 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x45-3
+2026-02-09 19:32:50,302 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x45-2
+2026-02-09 19:32:50,303 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-2
+2026-02-09 19:32:50,304 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x45-2
+2026-02-09 19:32:50,304 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-7
+2026-02-09 19:32:50,538 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-7
+2026-02-09 19:32:50,540 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-7
+2026-02-09 19:32:50,541 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-8
+2026-02-09 19:32:50,541 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-8
+2026-02-09 19:32:50,542 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-8
+2026-02-09 19:32:50,542 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from 1M1B-1
+2026-02-09 19:32:50,543 INFO  ExportHelperExtension.cs: 1136 - Found 54 in 1M1B-1
+2026-02-09 19:32:50,543 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in 1M1B-1
+2026-02-09 19:32:50,545 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-4
+2026-02-09 19:32:50,545 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-4
+2026-02-09 19:32:50,546 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-4
+2026-02-09 19:32:50,546 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-4
+2026-02-09 19:32:50,547 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-4
+2026-02-09 19:32:50,548 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-4
+2026-02-09 19:32:50,548 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from 2M1 assembly-2
+2026-02-09 19:32:50,551 INFO  ExportHelperExtension.cs: 1136 - Found 161 in 2M1 assembly-2
+2026-02-09 19:32:50,553 INFO  ExportHelperExtension.cs: 1145 - Found 1 features of type [CoordSys] in 2M1 assembly-2
+2026-02-09 19:32:50,553 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-5
+2026-02-09 19:32:50,554 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-5
+2026-02-09 19:32:50,554 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-5
+2026-02-09 19:32:50,556 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-6
+2026-02-09 19:32:50,556 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-6
+2026-02-09 19:32:50,557 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-6
+2026-02-09 19:32:50,557 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-3
+2026-02-09 19:32:50,558 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-3
+2026-02-09 19:32:50,558 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-3
+2026-02-09 19:32:50,559 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x45-1
+2026-02-09 19:32:50,559 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-1
+2026-02-09 19:32:50,560 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x45-1
+2026-02-09 19:32:50,560 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x45-4
+2026-02-09 19:32:50,561 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-4
+2026-02-09 19:32:50,561 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x45-4
+2026-02-09 19:32:50,562 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x45-5
+2026-02-09 19:32:50,562 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-5
+2026-02-09 19:32:50,563 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x45-5
+2026-02-09 19:32:50,563 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x45-6
+2026-02-09 19:32:50,564 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-6
+2026-02-09 19:32:50,564 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x45-6
+2026-02-09 19:32:50,565 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-1
+2026-02-09 19:32:50,566 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-1
+2026-02-09 19:32:50,568 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-1
+2026-02-09 19:32:50,568 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-2
+2026-02-09 19:32:50,569 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-2
+2026-02-09 19:32:50,570 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-2
+2026-02-09 19:32:50,570 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-3
+2026-02-09 19:32:50,571 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-3
+2026-02-09 19:32:50,572 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-3
+2026-02-09 19:32:50,572 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-6
+2026-02-09 19:32:50,573 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-6
+2026-02-09 19:32:50,573 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-6
+2026-02-09 19:32:50,574 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Spacer M8x20-1
+2026-02-09 19:32:50,574 INFO  ExportHelperExtension.cs: 1136 - Found 27 in Spacer M8x20-1
+2026-02-09 19:32:50,575 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Spacer M8x20-1
+2026-02-09 19:32:50,575 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M8 Autoblocant-1
+2026-02-09 19:32:50,576 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M8 Autoblocant-1
+2026-02-09 19:32:50,577 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M8 Autoblocant-1
+2026-02-09 19:32:50,577 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Tapa 2M1C-2
+2026-02-09 19:32:50,578 INFO  ExportHelperExtension.cs: 1136 - Found 33 in Tapa 2M1C-2
+2026-02-09 19:32:50,579 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Tapa 2M1C-2
+2026-02-09 19:32:50,579 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x40-5
+2026-02-09 19:32:50,580 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x40-5
+2026-02-09 19:32:50,581 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x40-5
+2026-02-09 19:32:50,582 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from 3M2-1
+2026-02-09 19:32:50,583 INFO  ExportHelperExtension.cs: 1136 - Found 89 in 3M2-1
+2026-02-09 19:32:50,585 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in 3M2-1
+2026-02-09 19:32:50,585 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-5
+2026-02-09 19:32:50,585 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-5
+2026-02-09 19:32:50,587 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-5
+2026-02-09 19:32:50,587 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from 4M-1
+2026-02-09 19:32:50,588 INFO  ExportHelperExtension.cs: 1136 - Found 154 in 4M-1
+2026-02-09 19:32:50,589 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in 4M-1
+2026-02-09 19:32:50,590 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Base assembly-1
+2026-02-09 19:32:50,591 INFO  ExportHelperExtension.cs: 1136 - Found 44 in Base assembly-1
+2026-02-09 19:32:50,591 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Base assembly-1
+2026-02-09 19:32:50,592 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Tapa 3M1C-2
+2026-02-09 19:32:50,592 INFO  ExportHelperExtension.cs: 1136 - Found 34 in Tapa 3M1C-2
+2026-02-09 19:32:50,593 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Tapa 3M1C-2
+2026-02-09 19:32:50,593 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M8x65-1
+2026-02-09 19:32:50,594 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M8x65-1
+2026-02-09 19:32:50,595 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M8x65-1
+2026-02-09 19:32:50,595 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from 2M2-1
+2026-02-09 19:32:50,596 INFO  ExportHelperExtension.cs: 1136 - Found 70 in 2M2-1
+2026-02-09 19:32:50,597 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in 2M2-1
+2026-02-09 19:32:50,597 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from 3M1-1
+2026-02-09 19:32:50,599 INFO  ExportHelperExtension.cs: 1136 - Found 95 in 3M1-1
+2026-02-09 19:32:50,601 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in 3M1-1
+2026-02-09 19:32:50,602 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Tapa 3M1C-3
+2026-02-09 19:32:50,602 INFO  ExportHelperExtension.cs: 1136 - Found 34 in Tapa 3M1C-3
+2026-02-09 19:32:50,603 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Tapa 3M1C-3
+2026-02-09 19:32:50,604 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Tapa 2M1C-1
+2026-02-09 19:32:50,604 INFO  ExportHelperExtension.cs: 1136 - Found 33 in Tapa 2M1C-1
+2026-02-09 19:32:50,605 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Tapa 2M1C-1
+2026-02-09 19:32:50,605 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from 1M3-1
+2026-02-09 19:32:50,606 INFO  ExportHelperExtension.cs: 1136 - Found 43 in 1M3-1
+2026-02-09 19:32:50,607 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in 1M3-1
+2026-02-09 19:32:50,607 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x30-3
+2026-02-09 19:32:50,608 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-3
+2026-02-09 19:32:50,608 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x30-3
+2026-02-09 19:32:50,609 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x30-2
+2026-02-09 19:32:50,609 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-2
+2026-02-09 19:32:50,610 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x30-2
+2026-02-09 19:32:50,610 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x30-1
+2026-02-09 19:32:50,611 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-1
+2026-02-09 19:32:50,612 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x30-1
+2026-02-09 19:32:50,612 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x30-4
+2026-02-09 19:32:50,613 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-4
+2026-02-09 19:32:50,613 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x30-4
+2026-02-09 19:32:50,614 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x40-8
+2026-02-09 19:32:50,614 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x40-8
+2026-02-09 19:32:50,615 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x40-8
+2026-02-09 19:32:50,616 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x40-9
+2026-02-09 19:32:50,617 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x40-9
+2026-02-09 19:32:50,618 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x40-9
+2026-02-09 19:32:50,618 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x30-7
+2026-02-09 19:32:50,619 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-7
+2026-02-09 19:32:50,619 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x30-7
+2026-02-09 19:32:50,620 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x30-8
+2026-02-09 19:32:50,621 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-8
+2026-02-09 19:32:50,621 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x30-8
+2026-02-09 19:32:50,622 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x40-7
+2026-02-09 19:32:50,622 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x40-7
+2026-02-09 19:32:50,623 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x40-7
+2026-02-09 19:32:50,623 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-1
+2026-02-09 19:32:50,624 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-1
+2026-02-09 19:32:50,625 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-1
+2026-02-09 19:32:50,625 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-2
+2026-02-09 19:32:50,625 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-2
+2026-02-09 19:32:50,627 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-2
+2026-02-09 19:32:50,628 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-3
+2026-02-09 19:32:50,628 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-3
+2026-02-09 19:32:50,629 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-3
+2026-02-09 19:32:50,629 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-10
+2026-02-09 19:32:50,630 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-10
+2026-02-09 19:32:50,630 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-10
+2026-02-09 19:32:50,631 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-6
+2026-02-09 19:32:50,631 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-6
+2026-02-09 19:32:50,632 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-6
+2026-02-09 19:32:50,632 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-14
+2026-02-09 19:32:50,633 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-14
+2026-02-09 19:32:50,634 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-14
+2026-02-09 19:32:50,635 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-9
+2026-02-09 19:32:50,636 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-9
+2026-02-09 19:32:50,636 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-9
+2026-02-09 19:32:50,636 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-18
+2026-02-09 19:32:50,637 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-18
+2026-02-09 19:32:50,637 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-18
+2026-02-09 19:32:50,638 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-8
+2026-02-09 19:32:50,639 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-8
+2026-02-09 19:32:50,639 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-8
+2026-02-09 19:32:50,640 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-11
+2026-02-09 19:32:50,640 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-11
+2026-02-09 19:32:50,640 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-11
+2026-02-09 19:32:50,641 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-13
+2026-02-09 19:32:50,641 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-13
+2026-02-09 19:32:50,642 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-13
+2026-02-09 19:32:50,650 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-16
+2026-02-09 19:32:50,651 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-16
+2026-02-09 19:32:50,652 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-16
+2026-02-09 19:32:50,653 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-12
+2026-02-09 19:32:50,653 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-12
+2026-02-09 19:32:50,653 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-12
+2026-02-09 19:32:50,654 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-4
+2026-02-09 19:32:50,675 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-4
+2026-02-09 19:32:50,676 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-4
+2026-02-09 19:32:50,677 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-7
+2026-02-09 19:32:50,677 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-7
+2026-02-09 19:32:50,678 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-7
+2026-02-09 19:32:50,678 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-11
+2026-02-09 19:32:50,679 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-11
+2026-02-09 19:32:50,679 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-11
+2026-02-09 19:32:50,680 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-7
+2026-02-09 19:32:50,680 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-7
+2026-02-09 19:32:50,681 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-7
+2026-02-09 19:32:50,682 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-15
+2026-02-09 19:32:50,683 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-15
+2026-02-09 19:32:50,683 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-15
+2026-02-09 19:32:50,684 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-17
+2026-02-09 19:32:50,684 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-17
+2026-02-09 19:32:50,685 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-17
+2026-02-09 19:32:50,685 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5x30-3
+2026-02-09 19:32:50,686 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M5x30-3
+2026-02-09 19:32:50,686 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5x30-3
+2026-02-09 19:32:50,686 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-14
+2026-02-09 19:32:50,687 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-14
+2026-02-09 19:32:50,688 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-14
+2026-02-09 19:32:50,688 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M5-3
+2026-02-09 19:32:50,688 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M5-3
+2026-02-09 19:32:50,689 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M5-3
+2026-02-09 19:32:50,689 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5x30-4
+2026-02-09 19:32:50,690 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M5x30-4
+2026-02-09 19:32:50,690 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5x30-4
+2026-02-09 19:32:50,691 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M5-1
+2026-02-09 19:32:50,691 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M5-1
+2026-02-09 19:32:50,691 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M5-1
+2026-02-09 19:32:50,692 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-19
+2026-02-09 19:32:50,692 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-19
+2026-02-09 19:32:50,693 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-19
+2026-02-09 19:32:50,693 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M3x10-6
+2026-02-09 19:32:50,694 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-6
+2026-02-09 19:32:50,694 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M3x10-6
+2026-02-09 19:32:50,694 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M5-2
+2026-02-09 19:32:50,695 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M5-2
+2026-02-09 19:32:50,695 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M5-2
+2026-02-09 19:32:50,696 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M5-4
+2026-02-09 19:32:50,696 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M5-4
+2026-02-09 19:32:50,696 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M5-4
+2026-02-09 19:32:50,697 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-9
+2026-02-09 19:32:50,698 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-9
+2026-02-09 19:32:50,698 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-9
+2026-02-09 19:32:50,700 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5x30-2
+2026-02-09 19:32:50,701 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M5x30-2
+2026-02-09 19:32:50,701 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5x30-2
+2026-02-09 19:32:50,701 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5x30-1
+2026-02-09 19:32:50,702 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M5x30-1
+2026-02-09 19:32:50,702 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5x30-1
+2026-02-09 19:32:50,703 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-13
+2026-02-09 19:32:50,703 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-13
+2026-02-09 19:32:50,704 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-13
+2026-02-09 19:32:50,704 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-15
+2026-02-09 19:32:50,704 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-15
+2026-02-09 19:32:50,705 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-15
+2026-02-09 19:32:50,705 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M3x10-2
+2026-02-09 19:32:50,706 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-2
+2026-02-09 19:32:50,706 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M3x10-2
+2026-02-09 19:32:50,706 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M3x10-1
+2026-02-09 19:32:50,707 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-1
+2026-02-09 19:32:50,707 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M3x10-1
+2026-02-09 19:32:50,708 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M3x10-5
+2026-02-09 19:32:50,708 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-5
+2026-02-09 19:32:50,709 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M3x10-5
+2026-02-09 19:32:50,709 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M3x10-7
+2026-02-09 19:32:50,710 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-7
+2026-02-09 19:32:50,710 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M3x10-7
+2026-02-09 19:32:50,710 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M3x10-8
+2026-02-09 19:32:50,711 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-8
+2026-02-09 19:32:50,711 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M3x10-8
+2026-02-09 19:32:50,712 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from BCN3D Moveo assembly
+2026-02-09 19:32:50,713 INFO  ExportHelperExtension.cs: 1136 - Found 305 in BCN3D Moveo assembly
+2026-02-09 19:32:50,714 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in BCN3D Moveo assembly
+2026-02-09 19:32:50,714 INFO  ExportHelperExtension.cs: 1148 - Proceeding through assembly components
+2026-02-09 19:32:50,715 INFO  ExportHelperExtension.cs: 1160 - 84 components to check
+2026-02-09 19:32:50,716 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Rotary Plate-1
+2026-02-09 19:32:50,717 INFO  ExportHelperExtension.cs: 1136 - Found 66 in Rotary Plate-1
+2026-02-09 19:32:50,718 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Rotary Plate-1
+2026-02-09 19:32:50,718 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-2
+2026-02-09 19:32:50,719 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-2
+2026-02-09 19:32:50,719 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-2
+2026-02-09 19:32:50,719 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-1
+2026-02-09 19:32:50,720 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-1
+2026-02-09 19:32:50,720 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-1
+2026-02-09 19:32:50,721 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x45-3
+2026-02-09 19:32:50,721 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-3
+2026-02-09 19:32:50,721 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x45-3
+2026-02-09 19:32:50,722 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x45-2
+2026-02-09 19:32:50,722 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-2
+2026-02-09 19:32:50,723 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x45-2
+2026-02-09 19:32:50,723 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-7
+2026-02-09 19:32:50,723 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-7
+2026-02-09 19:32:50,724 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-7
+2026-02-09 19:32:50,724 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-8
+2026-02-09 19:32:50,725 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-8
+2026-02-09 19:32:50,725 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-8
+2026-02-09 19:32:50,725 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from 1M1B-1
+2026-02-09 19:32:50,726 INFO  ExportHelperExtension.cs: 1136 - Found 54 in 1M1B-1
+2026-02-09 19:32:50,727 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in 1M1B-1
+2026-02-09 19:32:50,727 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-4
+2026-02-09 19:32:50,727 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-4
+2026-02-09 19:32:50,728 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-4
+2026-02-09 19:32:50,728 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-4
+2026-02-09 19:32:50,729 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-4
+2026-02-09 19:32:50,729 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-4
+2026-02-09 19:32:50,730 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from 2M1 assembly-2
+2026-02-09 19:32:50,730 INFO  ExportHelperExtension.cs: 1136 - Found 161 in 2M1 assembly-2
+2026-02-09 19:32:50,732 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in 2M1 assembly-2
+2026-02-09 19:32:50,733 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-5
+2026-02-09 19:32:50,734 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-5
+2026-02-09 19:32:50,734 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-5
+2026-02-09 19:32:50,735 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-6
+2026-02-09 19:32:50,735 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-6
+2026-02-09 19:32:50,736 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-6
+2026-02-09 19:32:50,736 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-3
+2026-02-09 19:32:50,736 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-3
+2026-02-09 19:32:50,737 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-3
+2026-02-09 19:32:50,737 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x45-1
+2026-02-09 19:32:50,738 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-1
+2026-02-09 19:32:50,738 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x45-1
+2026-02-09 19:32:50,739 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x45-4
+2026-02-09 19:32:50,739 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-4
+2026-02-09 19:32:50,740 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x45-4
+2026-02-09 19:32:50,740 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x45-5
+2026-02-09 19:32:50,741 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-5
+2026-02-09 19:32:50,741 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x45-5
+2026-02-09 19:32:50,742 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x45-6
+2026-02-09 19:32:50,742 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-6
+2026-02-09 19:32:50,743 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x45-6
+2026-02-09 19:32:50,743 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-1
+2026-02-09 19:32:50,744 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-1
+2026-02-09 19:32:50,744 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-1
+2026-02-09 19:32:50,745 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-2
+2026-02-09 19:32:50,745 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-2
+2026-02-09 19:32:50,746 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-2
+2026-02-09 19:32:50,746 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-3
+2026-02-09 19:32:50,747 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-3
+2026-02-09 19:32:50,747 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-3
+2026-02-09 19:32:50,748 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-6
+2026-02-09 19:32:50,748 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-6
+2026-02-09 19:32:50,749 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-6
+2026-02-09 19:32:50,750 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Spacer M8x20-1
+2026-02-09 19:32:50,750 INFO  ExportHelperExtension.cs: 1136 - Found 27 in Spacer M8x20-1
+2026-02-09 19:32:50,751 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Spacer M8x20-1
+2026-02-09 19:32:50,751 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M8 Autoblocant-1
+2026-02-09 19:32:50,752 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M8 Autoblocant-1
+2026-02-09 19:32:50,752 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M8 Autoblocant-1
+2026-02-09 19:32:50,753 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Tapa 2M1C-2
+2026-02-09 19:32:50,760 INFO  ExportHelperExtension.cs: 1136 - Found 33 in Tapa 2M1C-2
+2026-02-09 19:32:50,760 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Tapa 2M1C-2
+2026-02-09 19:32:50,761 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x40-5
+2026-02-09 19:32:50,784 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x40-5
+2026-02-09 19:32:50,785 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x40-5
+2026-02-09 19:32:50,785 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from 3M2-1
+2026-02-09 19:32:50,786 INFO  ExportHelperExtension.cs: 1136 - Found 89 in 3M2-1
+2026-02-09 19:32:50,787 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in 3M2-1
+2026-02-09 19:32:50,787 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-5
+2026-02-09 19:32:50,788 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-5
+2026-02-09 19:32:50,788 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-5
+2026-02-09 19:32:50,789 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from 4M-1
+2026-02-09 19:32:50,790 INFO  ExportHelperExtension.cs: 1136 - Found 154 in 4M-1
+2026-02-09 19:32:50,791 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in 4M-1
+2026-02-09 19:32:50,791 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Base assembly-1
+2026-02-09 19:32:50,791 INFO  ExportHelperExtension.cs: 1136 - Found 44 in Base assembly-1
+2026-02-09 19:32:50,792 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Base assembly-1
+2026-02-09 19:32:50,792 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Tapa 3M1C-2
+2026-02-09 19:32:50,793 INFO  ExportHelperExtension.cs: 1136 - Found 34 in Tapa 3M1C-2
+2026-02-09 19:32:50,794 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Tapa 3M1C-2
+2026-02-09 19:32:50,794 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M8x65-1
+2026-02-09 19:32:50,795 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M8x65-1
+2026-02-09 19:32:50,795 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M8x65-1
+2026-02-09 19:32:50,796 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from 2M2-1
+2026-02-09 19:32:50,798 INFO  ExportHelperExtension.cs: 1136 - Found 70 in 2M2-1
+2026-02-09 19:32:50,799 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in 2M2-1
+2026-02-09 19:32:50,799 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from 3M1-1
+2026-02-09 19:32:50,800 INFO  ExportHelperExtension.cs: 1136 - Found 95 in 3M1-1
+2026-02-09 19:32:50,802 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in 3M1-1
+2026-02-09 19:32:50,803 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Tapa 3M1C-3
+2026-02-09 19:32:50,804 INFO  ExportHelperExtension.cs: 1136 - Found 34 in Tapa 3M1C-3
+2026-02-09 19:32:50,804 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Tapa 3M1C-3
+2026-02-09 19:32:50,805 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Tapa 2M1C-1
+2026-02-09 19:32:50,805 INFO  ExportHelperExtension.cs: 1136 - Found 33 in Tapa 2M1C-1
+2026-02-09 19:32:50,805 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Tapa 2M1C-1
+2026-02-09 19:32:50,806 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from 1M3-1
+2026-02-09 19:32:50,807 INFO  ExportHelperExtension.cs: 1136 - Found 43 in 1M3-1
+2026-02-09 19:32:50,807 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in 1M3-1
+2026-02-09 19:32:50,808 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x30-3
+2026-02-09 19:32:50,809 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-3
+2026-02-09 19:32:50,810 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x30-3
+2026-02-09 19:32:50,810 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x30-2
+2026-02-09 19:32:50,811 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-2
+2026-02-09 19:32:50,812 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x30-2
+2026-02-09 19:32:50,812 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x30-1
+2026-02-09 19:32:50,812 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-1
+2026-02-09 19:32:50,813 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x30-1
+2026-02-09 19:32:50,813 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x30-4
+2026-02-09 19:32:50,817 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-4
+2026-02-09 19:32:50,818 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x30-4
+2026-02-09 19:32:50,819 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x40-8
+2026-02-09 19:32:50,820 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x40-8
+2026-02-09 19:32:50,821 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x40-8
+2026-02-09 19:32:50,821 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x40-9
+2026-02-09 19:32:50,822 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x40-9
+2026-02-09 19:32:50,822 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x40-9
+2026-02-09 19:32:50,823 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x30-7
+2026-02-09 19:32:50,824 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-7
+2026-02-09 19:32:50,825 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x30-7
+2026-02-09 19:32:50,825 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x30-8
+2026-02-09 19:32:50,826 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-8
+2026-02-09 19:32:50,826 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x30-8
+2026-02-09 19:32:50,827 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x40-7
+2026-02-09 19:32:50,827 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x40-7
+2026-02-09 19:32:50,828 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x40-7
+2026-02-09 19:32:50,828 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-1
+2026-02-09 19:32:50,829 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-1
+2026-02-09 19:32:50,830 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-1
+2026-02-09 19:32:50,830 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-2
+2026-02-09 19:32:50,831 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-2
+2026-02-09 19:32:50,832 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-2
+2026-02-09 19:32:50,833 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-3
+2026-02-09 19:32:50,834 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-3
+2026-02-09 19:32:50,835 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-3
+2026-02-09 19:32:50,835 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-10
+2026-02-09 19:32:50,836 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-10
+2026-02-09 19:32:50,836 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-10
+2026-02-09 19:32:50,836 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-6
+2026-02-09 19:32:50,837 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-6
+2026-02-09 19:32:50,837 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-6
+2026-02-09 19:32:50,838 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-14
+2026-02-09 19:32:50,839 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-14
+2026-02-09 19:32:50,839 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-14
+2026-02-09 19:32:50,840 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-9
+2026-02-09 19:32:50,840 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-9
+2026-02-09 19:32:50,841 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-9
+2026-02-09 19:32:50,841 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-18
+2026-02-09 19:32:50,842 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-18
+2026-02-09 19:32:50,842 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-18
+2026-02-09 19:32:50,843 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-8
+2026-02-09 19:32:50,843 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-8
+2026-02-09 19:32:50,844 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-8
+2026-02-09 19:32:50,844 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-11
+2026-02-09 19:32:50,845 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-11
+2026-02-09 19:32:50,845 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-11
+2026-02-09 19:32:50,846 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-13
+2026-02-09 19:32:50,846 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-13
+2026-02-09 19:32:50,847 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-13
+2026-02-09 19:32:50,847 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-16
+2026-02-09 19:32:50,849 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-16
+2026-02-09 19:32:50,849 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-16
+2026-02-09 19:32:50,850 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-12
+2026-02-09 19:32:50,850 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-12
+2026-02-09 19:32:50,851 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-12
+2026-02-09 19:32:50,851 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-4
+2026-02-09 19:32:50,852 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-4
+2026-02-09 19:32:50,852 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-4
+2026-02-09 19:32:50,853 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-7
+2026-02-09 19:32:50,853 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-7
+2026-02-09 19:32:50,854 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-7
+2026-02-09 19:32:50,854 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-11
+2026-02-09 19:32:50,854 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-11
+2026-02-09 19:32:50,856 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-11
+2026-02-09 19:32:50,856 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-7
+2026-02-09 19:32:50,857 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-7
+2026-02-09 19:32:50,857 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-7
+2026-02-09 19:32:50,858 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-15
+2026-02-09 19:32:50,858 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-15
+2026-02-09 19:32:50,858 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-15
+2026-02-09 19:32:50,859 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-17
+2026-02-09 19:32:50,859 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-17
+2026-02-09 19:32:50,860 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-17
+2026-02-09 19:32:50,860 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5x30-3
+2026-02-09 19:32:50,861 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M5x30-3
+2026-02-09 19:32:50,861 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5x30-3
+2026-02-09 19:32:50,862 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-14
+2026-02-09 19:32:50,862 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-14
+2026-02-09 19:32:50,863 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-14
+2026-02-09 19:32:50,863 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M5-3
+2026-02-09 19:32:50,864 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M5-3
+2026-02-09 19:32:50,864 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M5-3
+2026-02-09 19:32:50,865 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5x30-4
+2026-02-09 19:32:50,866 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M5x30-4
+2026-02-09 19:32:50,867 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5x30-4
+2026-02-09 19:32:50,867 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M5-1
+2026-02-09 19:32:50,868 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M5-1
+2026-02-09 19:32:50,869 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M5-1
+2026-02-09 19:32:50,869 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-19
+2026-02-09 19:32:50,870 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-19
+2026-02-09 19:32:50,870 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-19
+2026-02-09 19:32:50,871 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M3x10-6
+2026-02-09 19:32:50,871 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-6
+2026-02-09 19:32:50,872 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M3x10-6
+2026-02-09 19:32:50,873 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M5-2
+2026-02-09 19:32:50,873 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M5-2
+2026-02-09 19:32:50,874 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M5-2
+2026-02-09 19:32:50,874 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M5-4
+2026-02-09 19:32:50,875 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M5-4
+2026-02-09 19:32:50,876 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M5-4
+2026-02-09 19:32:50,876 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-9
+2026-02-09 19:32:50,877 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-9
+2026-02-09 19:32:50,878 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-9
+2026-02-09 19:32:50,878 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5x30-2
+2026-02-09 19:32:50,879 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M5x30-2
+2026-02-09 19:32:50,879 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5x30-2
+2026-02-09 19:32:50,880 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5x30-1
+2026-02-09 19:32:50,880 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M5x30-1
+2026-02-09 19:32:50,881 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5x30-1
+2026-02-09 19:32:50,882 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-13
+2026-02-09 19:32:50,882 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-13
+2026-02-09 19:32:50,888 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-13
+2026-02-09 19:32:50,890 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-15
+2026-02-09 19:32:50,891 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-15
+2026-02-09 19:32:50,891 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-15
+2026-02-09 19:32:50,892 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M3x10-2
+2026-02-09 19:32:50,910 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-2
+2026-02-09 19:32:50,911 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M3x10-2
+2026-02-09 19:32:50,911 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M3x10-1
+2026-02-09 19:32:50,912 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-1
+2026-02-09 19:32:50,912 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M3x10-1
+2026-02-09 19:32:50,913 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M3x10-5
+2026-02-09 19:32:50,913 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-5
+2026-02-09 19:32:50,914 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M3x10-5
+2026-02-09 19:32:50,914 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M3x10-7
+2026-02-09 19:32:50,915 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-7
+2026-02-09 19:32:50,916 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M3x10-7
+2026-02-09 19:32:50,916 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M3x10-8
+2026-02-09 19:32:50,917 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-8
+2026-02-09 19:32:50,918 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M3x10-8
+2026-02-09 19:32:51,669 INFO  SwAddin.cs: 339 - Loading config tree
+2026-02-09 19:32:51,674 INFO  ExportPropertyManagerExtension.cs: 520 - Starting new configuration
+2026-02-09 19:32:51,678 INFO  SwAddin.cs: 344 - Showing property manager
+2026-02-09 19:33:02,523 INFO  ExportPropertyManager.cs: 1018 - OnComboboxSelectionChanged called. This method no longer throws an Exception. It just silently does nothing. Ok, except for this logging message
+2026-02-09 19:34:46,242 INFO  ExportPropertyManager.cs: 1136 - OnNumberBoxTrackingCompleted called. This method no longer throws an Exception. It just silently does nothing. Ok, except for this logging message
+2026-02-09 19:34:57,062 INFO  ExportPropertyManager.cs: 1018 - OnComboboxSelectionChanged called. This method no longer throws an Exception. It just silently does nothing. Ok, except for this logging message
+2026-02-09 19:34:59,902 INFO  ExportPropertyManager.cs: 1018 - OnComboboxSelectionChanged called. This method no longer throws an Exception. It just silently does nothing. Ok, except for this logging message
+2026-02-09 19:35:01,590 INFO  ExportPropertyManager.cs: 1018 - OnComboboxSelectionChanged called. This method no longer throws an Exception. It just silently does nothing. Ok, except for this logging message
+2026-02-09 19:35:11,374 INFO  ExportPropertyManager.cs: 422 - Configuration saved
+2026-02-09 19:35:13,431 INFO  ExportHelperExtension.cs: 347 - Creating joint link1
+2026-02-09 19:35:13,438 INFO  ExportHelperExtension.cs: 1397 - Fixing components for base_link
+2026-02-09 19:35:13,440 INFO  ExportHelperExtension.cs: 1402 - Fixing 353
+2026-02-09 19:35:13,440 INFO  ExportHelperExtension.cs: 1402 - Fixing 2072
+2026-02-09 19:35:13,441 INFO  ExportHelperExtension.cs: 1402 - Fixing 2071
+2026-02-09 19:35:13,441 INFO  ExportHelperExtension.cs: 1402 - Fixing 2069
+2026-02-09 19:35:13,441 INFO  ExportHelperExtension.cs: 1402 - Fixing 2051
+2026-02-09 19:35:13,442 INFO  ExportHelperExtension.cs: 1402 - Fixing 2025
+2026-02-09 19:35:13,442 INFO  ExportHelperExtension.cs: 1402 - Fixing 2023
+2026-02-09 19:35:13,443 INFO  ExportHelperExtension.cs: 1402 - Fixing 2016
+2026-02-09 19:35:13,443 INFO  ExportHelperExtension.cs: 1402 - Fixing 2009
+2026-02-09 19:35:13,444 INFO  ExportHelperExtension.cs: 1402 - Fixing 2004
+2026-02-09 19:35:13,444 INFO  ExportHelperExtension.cs: 1402 - Fixing 1724
+2026-02-09 19:35:13,444 INFO  ExportHelperExtension.cs: 1402 - Fixing 1649
+2026-02-09 19:35:13,445 INFO  ExportHelperExtension.cs: 1402 - Fixing 1645
+2026-02-09 19:35:13,445 INFO  ExportHelperExtension.cs: 1402 - Fixing 1614
+2026-02-09 19:35:13,446 INFO  ExportHelperExtension.cs: 1402 - Fixing 1613
+2026-02-09 19:35:13,447 INFO  ExportHelperExtension.cs: 1402 - Fixing 1611
+2026-02-09 19:35:13,447 INFO  ExportHelperExtension.cs: 1402 - Fixing 1609
+2026-02-09 19:35:13,449 INFO  ExportHelperExtension.cs: 1402 - Fixing 1608
+2026-02-09 19:35:13,450 INFO  ExportHelperExtension.cs: 1402 - Fixing 1607
+2026-02-09 19:35:13,450 INFO  ExportHelperExtension.cs: 1402 - Fixing 1588
+2026-02-09 19:35:13,450 INFO  ExportHelperExtension.cs: 1402 - Fixing 1587
+2026-02-09 19:35:13,451 INFO  ExportHelperExtension.cs: 1402 - Fixing 1586
+2026-02-09 19:35:13,451 INFO  ExportHelperExtension.cs: 1402 - Fixing 1585
+2026-02-09 19:35:13,452 INFO  ExportHelperExtension.cs: 1402 - Fixing 1584
+2026-02-09 19:35:13,452 INFO  ExportHelperExtension.cs: 1402 - Fixing 1583
+2026-02-09 19:35:13,452 INFO  ExportHelperExtension.cs: 1402 - Fixing 1582
+2026-02-09 19:35:13,453 INFO  ExportHelperExtension.cs: 1402 - Fixing 1581
+2026-02-09 19:35:13,453 INFO  ExportHelperExtension.cs: 1402 - Fixing 1445
+2026-02-09 19:35:13,453 INFO  ExportHelperExtension.cs: 1402 - Fixing 1402
+2026-02-09 19:35:13,454 INFO  ExportHelperExtension.cs: 1402 - Fixing 1317
+2026-02-09 19:35:13,454 INFO  ExportHelperExtension.cs: 1402 - Fixing 1154
+2026-02-09 19:35:13,455 INFO  ExportHelperExtension.cs: 1402 - Fixing 1091
+2026-02-09 19:35:13,456 INFO  ExportHelperExtension.cs: 1402 - Fixing 994
+2026-02-09 19:35:13,456 INFO  ExportHelperExtension.cs: 1402 - Fixing 925
+2026-02-09 19:35:13,457 INFO  ExportHelperExtension.cs: 1402 - Fixing 842
+2026-02-09 19:35:13,457 INFO  ExportHelperExtension.cs: 1402 - Fixing 705
+2026-02-09 19:35:13,458 INFO  ExportHelperExtension.cs: 1402 - Fixing 586
+2026-02-09 19:35:13,459 INFO  ExportHelperExtension.cs: 1402 - Fixing 565
+2026-02-09 19:35:13,459 INFO  ExportHelperExtension.cs: 1402 - Fixing 564
+2026-02-09 19:35:13,459 INFO  ExportHelperExtension.cs: 1402 - Fixing 548
+2026-02-09 19:35:13,460 INFO  ExportHelperExtension.cs: 1402 - Fixing 547
+2026-02-09 19:35:13,460 INFO  ExportHelperExtension.cs: 1402 - Fixing 478
+2026-02-09 19:35:13,461 INFO  ExportHelperExtension.cs: 1402 - Fixing 477
+2026-02-09 19:35:13,461 INFO  ExportHelperExtension.cs: 1402 - Fixing 476
+2026-02-09 19:35:13,461 INFO  ExportHelperExtension.cs: 1402 - Fixing 475
+2026-02-09 19:35:13,462 INFO  ExportHelperExtension.cs: 1402 - Fixing 466
+2026-02-09 19:35:13,462 INFO  ExportHelperExtension.cs: 1402 - Fixing 465
+2026-02-09 19:35:13,463 INFO  ExportHelperExtension.cs: 1402 - Fixing 464
+2026-02-09 19:35:13,463 INFO  ExportHelperExtension.cs: 1402 - Fixing 434
+2026-02-09 19:35:13,464 INFO  ExportHelperExtension.cs: 1402 - Fixing 363
+2026-02-09 19:35:13,464 INFO  ExportHelperExtension.cs: 1402 - Fixing 357
+2026-02-09 19:35:13,465 INFO  ExportHelperExtension.cs: 1402 - Fixing 339
+2026-02-09 19:35:13,466 INFO  ExportHelperExtension.cs: 1402 - Fixing 19
+2026-02-09 19:35:13,466 INFO  ExportHelperExtension.cs: 1409 - Component 19 is already fixed
+2026-02-09 19:35:17,816 INFO  ExportHelperExtension.cs: 832 - R1: 0, 0
+2026-02-09 19:35:17,816 INFO  ExportHelperExtension.cs: 841 - R2: 0, 0
+2026-02-09 19:35:17,817 INFO  ExportHelperExtension.cs: 849 - L1: 0
+2026-02-09 19:35:17,817 INFO  ExportHelperExtension.cs: 857 - L2: 0
+2026-02-09 19:35:17,943 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 353
+2026-02-09 19:35:17,943 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 2072
+2026-02-09 19:35:17,944 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 2071
+2026-02-09 19:35:17,944 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 2069
+2026-02-09 19:35:17,945 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 2051
+2026-02-09 19:35:17,945 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 2025
+2026-02-09 19:35:17,946 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 2023
+2026-02-09 19:35:17,950 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 2016
+2026-02-09 19:35:17,950 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 2009
+2026-02-09 19:35:17,951 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 2004
+2026-02-09 19:35:17,951 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1724
+2026-02-09 19:35:17,951 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1649
+2026-02-09 19:35:17,952 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1645
+2026-02-09 19:35:17,952 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1614
+2026-02-09 19:35:17,954 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1613
+2026-02-09 19:35:17,954 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1611
+2026-02-09 19:35:17,954 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1609
+2026-02-09 19:35:17,954 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1608
+2026-02-09 19:35:17,954 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1607
+2026-02-09 19:35:17,955 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1588
+2026-02-09 19:35:17,955 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1587
+2026-02-09 19:35:17,955 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1586
+2026-02-09 19:35:17,957 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1585
+2026-02-09 19:35:17,957 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1584
+2026-02-09 19:35:17,957 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1583
+2026-02-09 19:35:17,958 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1582
+2026-02-09 19:35:17,958 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1581
+2026-02-09 19:35:17,958 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1445
+2026-02-09 19:35:17,959 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1402
+2026-02-09 19:35:17,959 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1317
+2026-02-09 19:35:17,959 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1154
+2026-02-09 19:35:17,960 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 1091
+2026-02-09 19:35:17,960 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 994
+2026-02-09 19:35:17,960 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 925
+2026-02-09 19:35:17,966 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 842
+2026-02-09 19:35:17,966 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 705
+2026-02-09 19:35:17,966 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 586
+2026-02-09 19:35:17,967 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 565
+2026-02-09 19:35:17,967 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 564
+2026-02-09 19:35:17,967 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 548
+2026-02-09 19:35:17,968 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 547
+2026-02-09 19:35:17,968 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 478
+2026-02-09 19:35:17,969 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 477
+2026-02-09 19:35:17,969 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 476
+2026-02-09 19:35:17,969 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 475
+2026-02-09 19:35:17,970 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 466
+2026-02-09 19:35:17,970 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 465
+2026-02-09 19:35:17,970 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 464
+2026-02-09 19:35:17,971 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 434
+2026-02-09 19:35:17,971 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 363
+2026-02-09 19:35:17,972 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 357
+2026-02-09 19:35:17,972 INFO  ExportHelperExtension.cs: 1352 - Unfixing component 339
+2026-02-09 19:35:22,537 WARN  ExportHelperExtension.cs: 351 - Creating joint from parent base_link to child link1 failed
+2026-02-09 19:35:27,826 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from BCN3D Moveo assembly
+2026-02-09 19:35:27,834 INFO  ExportHelperExtension.cs: 1136 - Found 306 in BCN3D Moveo assembly
+2026-02-09 19:35:27,835 INFO  ExportHelperExtension.cs: 1145 - Found 1 features of type [CoordSys] in BCN3D Moveo assembly
+2026-02-09 19:35:27,835 INFO  ExportHelperExtension.cs: 1148 - Proceeding through assembly components
+2026-02-09 19:35:27,836 INFO  ExportHelperExtension.cs: 1160 - 84 components to check
+2026-02-09 19:35:27,836 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Rotary Plate-1
+2026-02-09 19:35:27,837 INFO  ExportHelperExtension.cs: 1136 - Found 66 in Rotary Plate-1
+2026-02-09 19:35:27,837 INFO  ExportHelperExtension.cs: 1145 - Found 1 features of type [CoordSys] in Rotary Plate-1
+2026-02-09 19:35:27,838 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-2
+2026-02-09 19:35:27,838 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-2
+2026-02-09 19:35:27,839 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-2
+2026-02-09 19:35:27,839 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-1
+2026-02-09 19:35:27,840 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-1
+2026-02-09 19:35:27,840 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-1
+2026-02-09 19:35:27,840 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x45-3
+2026-02-09 19:35:27,841 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-3
+2026-02-09 19:35:27,841 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x45-3
+2026-02-09 19:35:27,842 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x45-2
+2026-02-09 19:35:27,842 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-2
+2026-02-09 19:35:27,843 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x45-2
+2026-02-09 19:35:27,843 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-7
+2026-02-09 19:35:27,844 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-7
+2026-02-09 19:35:27,844 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-7
+2026-02-09 19:35:27,845 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-8
+2026-02-09 19:35:27,848 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-8
+2026-02-09 19:35:27,849 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-8
+2026-02-09 19:35:27,849 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from 1M1B-1
+2026-02-09 19:35:27,850 INFO  ExportHelperExtension.cs: 1136 - Found 54 in 1M1B-1
+2026-02-09 19:35:27,850 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in 1M1B-1
+2026-02-09 19:35:27,850 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-4
+2026-02-09 19:35:27,851 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-4
+2026-02-09 19:35:27,851 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-4
+2026-02-09 19:35:27,852 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-4
+2026-02-09 19:35:27,852 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-4
+2026-02-09 19:35:27,853 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-4
+2026-02-09 19:35:27,854 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from 2M1 assembly-2
+2026-02-09 19:35:27,855 INFO  ExportHelperExtension.cs: 1136 - Found 161 in 2M1 assembly-2
+2026-02-09 19:35:27,856 INFO  ExportHelperExtension.cs: 1145 - Found 1 features of type [CoordSys] in 2M1 assembly-2
+2026-02-09 19:35:27,856 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-5
+2026-02-09 19:35:27,856 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-5
+2026-02-09 19:35:27,857 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-5
+2026-02-09 19:35:27,857 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-6
+2026-02-09 19:35:27,858 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-6
+2026-02-09 19:35:27,858 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-6
+2026-02-09 19:35:27,859 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-3
+2026-02-09 19:35:27,859 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-3
+2026-02-09 19:35:27,860 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-3
+2026-02-09 19:35:27,860 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x45-1
+2026-02-09 19:35:27,861 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-1
+2026-02-09 19:35:27,861 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x45-1
+2026-02-09 19:35:27,862 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x45-4
+2026-02-09 19:35:27,863 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-4
+2026-02-09 19:35:27,864 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x45-4
+2026-02-09 19:35:27,864 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x45-5
+2026-02-09 19:35:27,864 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-5
+2026-02-09 19:35:27,865 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x45-5
+2026-02-09 19:35:27,865 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x45-6
+2026-02-09 19:35:27,866 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-6
+2026-02-09 19:35:27,866 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x45-6
+2026-02-09 19:35:27,867 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-1
+2026-02-09 19:35:27,867 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-1
+2026-02-09 19:35:27,868 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-1
+2026-02-09 19:35:27,868 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-2
+2026-02-09 19:35:27,869 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-2
+2026-02-09 19:35:27,869 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-2
+2026-02-09 19:35:27,869 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-3
+2026-02-09 19:35:27,870 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-3
+2026-02-09 19:35:27,870 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-3
+2026-02-09 19:35:27,871 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-6
+2026-02-09 19:35:27,872 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-6
+2026-02-09 19:35:27,872 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-6
+2026-02-09 19:35:27,873 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Spacer M8x20-1
+2026-02-09 19:35:27,873 INFO  ExportHelperExtension.cs: 1136 - Found 27 in Spacer M8x20-1
+2026-02-09 19:35:27,880 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Spacer M8x20-1
+2026-02-09 19:35:27,881 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M8 Autoblocant-1
+2026-02-09 19:35:28,109 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M8 Autoblocant-1
+2026-02-09 19:35:28,110 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M8 Autoblocant-1
+2026-02-09 19:35:28,111 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Tapa 2M1C-2
+2026-02-09 19:35:28,111 INFO  ExportHelperExtension.cs: 1136 - Found 33 in Tapa 2M1C-2
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Tapa 2M1C-2
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x40-5
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x40-5
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x40-5
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from 3M2-1
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1136 - Found 89 in 3M2-1
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in 3M2-1
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-5
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-5
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-5
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from 4M-1
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1136 - Found 154 in 4M-1
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in 4M-1
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Base assembly-1
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1136 - Found 44 in Base assembly-1
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Base assembly-1
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Tapa 3M1C-2
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1136 - Found 34 in Tapa 3M1C-2
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Tapa 3M1C-2
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M8x65-1
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M8x65-1
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M8x65-1
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from 2M2-1
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1136 - Found 70 in 2M2-1
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in 2M2-1
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from 3M1-1
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1136 - Found 95 in 3M1-1
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in 3M1-1
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Tapa 3M1C-3
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1136 - Found 34 in Tapa 3M1C-3
+2026-02-09 19:35:28,112 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Tapa 3M1C-3
+2026-02-09 19:35:28,127 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Tapa 2M1C-1
+2026-02-09 19:35:28,127 INFO  ExportHelperExtension.cs: 1136 - Found 33 in Tapa 2M1C-1
+2026-02-09 19:35:28,127 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Tapa 2M1C-1
+2026-02-09 19:35:28,127 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from 1M3-1
+2026-02-09 19:35:28,127 INFO  ExportHelperExtension.cs: 1136 - Found 43 in 1M3-1
+2026-02-09 19:35:28,127 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in 1M3-1
+2026-02-09 19:35:28,127 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x30-3
+2026-02-09 19:35:28,127 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-3
+2026-02-09 19:35:28,127 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x30-3
+2026-02-09 19:35:28,127 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x30-2
+2026-02-09 19:35:28,127 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-2
+2026-02-09 19:35:28,127 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x30-2
+2026-02-09 19:35:28,127 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x30-1
+2026-02-09 19:35:28,127 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-1
+2026-02-09 19:35:28,127 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x30-1
+2026-02-09 19:35:28,136 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x30-4
+2026-02-09 19:35:28,137 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-4
+2026-02-09 19:35:28,138 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x30-4
+2026-02-09 19:35:28,139 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x40-8
+2026-02-09 19:35:28,139 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x40-8
+2026-02-09 19:35:28,140 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x40-8
+2026-02-09 19:35:28,140 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x40-9
+2026-02-09 19:35:28,141 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x40-9
+2026-02-09 19:35:28,141 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x40-9
+2026-02-09 19:35:28,141 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x30-7
+2026-02-09 19:35:28,142 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-7
+2026-02-09 19:35:28,142 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x30-7
+2026-02-09 19:35:28,143 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x30-8
+2026-02-09 19:35:28,144 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-8
+2026-02-09 19:35:28,145 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x30-8
+2026-02-09 19:35:28,146 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4x40-7
+2026-02-09 19:35:28,146 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x40-7
+2026-02-09 19:35:28,147 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4x40-7
+2026-02-09 19:35:28,148 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-1
+2026-02-09 19:35:28,148 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-1
+2026-02-09 19:35:28,149 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-1
+2026-02-09 19:35:28,149 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-2
+2026-02-09 19:35:28,149 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-2
+2026-02-09 19:35:28,150 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-2
+2026-02-09 19:35:28,150 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-3
+2026-02-09 19:35:28,150 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-3
+2026-02-09 19:35:28,151 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-3
+2026-02-09 19:35:28,151 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-10
+2026-02-09 19:35:28,152 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-10
+2026-02-09 19:35:28,152 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-10
+2026-02-09 19:35:28,152 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-6
+2026-02-09 19:35:28,153 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-6
+2026-02-09 19:35:28,153 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-6
+2026-02-09 19:35:28,154 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-14
+2026-02-09 19:35:28,154 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-14
+2026-02-09 19:35:28,155 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-14
+2026-02-09 19:35:28,155 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-9
+2026-02-09 19:35:28,156 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-9
+2026-02-09 19:35:28,156 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-9
+2026-02-09 19:35:28,156 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-18
+2026-02-09 19:35:28,157 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-18
+2026-02-09 19:35:28,157 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-18
+2026-02-09 19:35:28,159 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-8
+2026-02-09 19:35:28,159 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-8
+2026-02-09 19:35:28,160 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-8
+2026-02-09 19:35:28,160 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-11
+2026-02-09 19:35:28,160 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-11
+2026-02-09 19:35:28,161 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-11
+2026-02-09 19:35:28,162 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-13
+2026-02-09 19:35:28,162 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-13
+2026-02-09 19:35:28,163 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-13
+2026-02-09 19:35:28,164 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-16
+2026-02-09 19:35:28,165 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-16
+2026-02-09 19:35:28,165 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-16
+2026-02-09 19:35:28,166 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-12
+2026-02-09 19:35:28,166 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-12
+2026-02-09 19:35:28,167 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-12
+2026-02-09 19:35:28,167 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-4
+2026-02-09 19:35:28,168 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-4
+2026-02-09 19:35:28,168 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-4
+2026-02-09 19:35:28,169 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-7
+2026-02-09 19:35:28,206 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-7
+2026-02-09 19:35:28,207 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-7
+2026-02-09 19:35:28,208 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M4-11
+2026-02-09 19:35:28,208 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-11
+2026-02-09 19:35:28,209 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M4-11
+2026-02-09 19:35:28,210 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-7
+2026-02-09 19:35:28,211 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-7
+2026-02-09 19:35:28,212 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-7
+2026-02-09 19:35:28,213 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-15
+2026-02-09 19:35:28,214 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-15
+2026-02-09 19:35:28,215 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-15
+2026-02-09 19:35:28,215 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-17
+2026-02-09 19:35:28,216 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-17
+2026-02-09 19:35:28,216 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-17
+2026-02-09 19:35:28,217 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5x30-3
+2026-02-09 19:35:28,217 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M5x30-3
+2026-02-09 19:35:28,218 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5x30-3
+2026-02-09 19:35:28,218 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-14
+2026-02-09 19:35:28,219 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-14
+2026-02-09 19:35:28,219 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-14
+2026-02-09 19:35:28,220 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M5-3
+2026-02-09 19:35:28,220 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M5-3
+2026-02-09 19:35:28,221 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M5-3
+2026-02-09 19:35:28,222 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5x30-4
+2026-02-09 19:35:28,223 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M5x30-4
+2026-02-09 19:35:28,223 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5x30-4
+2026-02-09 19:35:28,224 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M5-1
+2026-02-09 19:35:28,224 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M5-1
+2026-02-09 19:35:28,225 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M5-1
+2026-02-09 19:35:28,225 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M4 Locknut-19
+2026-02-09 19:35:28,226 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-19
+2026-02-09 19:35:28,226 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M4 Locknut-19
+2026-02-09 19:35:28,227 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M3x10-6
+2026-02-09 19:35:28,227 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-6
+2026-02-09 19:35:28,228 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M3x10-6
+2026-02-09 19:35:28,229 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M5-2
+2026-02-09 19:35:28,230 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M5-2
+2026-02-09 19:35:28,230 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M5-2
+2026-02-09 19:35:28,231 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from Volandera M5-4
+2026-02-09 19:35:28,231 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M5-4
+2026-02-09 19:35:28,232 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in Volandera M5-4
+2026-02-09 19:35:28,232 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-9
+2026-02-09 19:35:28,233 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-9
+2026-02-09 19:35:28,233 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-9
+2026-02-09 19:35:28,234 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5x30-2
+2026-02-09 19:35:28,234 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M5x30-2
+2026-02-09 19:35:28,235 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5x30-2
+2026-02-09 19:35:28,235 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5x30-1
+2026-02-09 19:35:28,236 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M5x30-1
+2026-02-09 19:35:28,236 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5x30-1
+2026-02-09 19:35:28,237 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-13
+2026-02-09 19:35:28,237 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-13
+2026-02-09 19:35:28,238 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-13
+2026-02-09 19:35:28,238 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M5 Lock-15
+2026-02-09 19:35:28,239 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-15
+2026-02-09 19:35:28,239 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M5 Lock-15
+2026-02-09 19:35:28,240 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M3x10-2
+2026-02-09 19:35:28,240 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-2
+2026-02-09 19:35:28,240 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M3x10-2
+2026-02-09 19:35:28,241 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M3x10-1
+2026-02-09 19:35:28,241 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-1
+2026-02-09 19:35:28,242 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M3x10-1
+2026-02-09 19:35:28,242 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M3x10-5
+2026-02-09 19:35:28,243 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-5
+2026-02-09 19:35:28,243 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M3x10-5
+2026-02-09 19:35:28,244 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M3x10-7
+2026-02-09 19:35:28,244 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-7
+2026-02-09 19:35:28,244 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M3x10-7
+2026-02-09 19:35:28,245 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [CoordSys] from M3x10-8
+2026-02-09 19:35:28,246 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-8
+2026-02-09 19:35:28,247 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [CoordSys] in M3x10-8
+2026-02-09 19:35:28,247 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from BCN3D Moveo assembly
+2026-02-09 19:35:28,248 INFO  ExportHelperExtension.cs: 1136 - Found 306 in BCN3D Moveo assembly
+2026-02-09 19:35:28,249 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in BCN3D Moveo assembly
+2026-02-09 19:35:28,249 INFO  ExportHelperExtension.cs: 1148 - Proceeding through assembly components
+2026-02-09 19:35:28,250 INFO  ExportHelperExtension.cs: 1160 - 84 components to check
+2026-02-09 19:35:28,250 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Rotary Plate-1
+2026-02-09 19:35:28,251 INFO  ExportHelperExtension.cs: 1136 - Found 66 in Rotary Plate-1
+2026-02-09 19:35:28,252 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Rotary Plate-1
+2026-02-09 19:35:28,252 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-2
+2026-02-09 19:35:28,253 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-2
+2026-02-09 19:35:28,253 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-2
+2026-02-09 19:35:28,254 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-1
+2026-02-09 19:35:28,254 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-1
+2026-02-09 19:35:28,255 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-1
+2026-02-09 19:35:28,255 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x45-3
+2026-02-09 19:35:28,256 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-3
+2026-02-09 19:35:28,256 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x45-3
+2026-02-09 19:35:28,257 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x45-2
+2026-02-09 19:35:28,257 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-2
+2026-02-09 19:35:28,258 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x45-2
+2026-02-09 19:35:28,258 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-7
+2026-02-09 19:35:28,258 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-7
+2026-02-09 19:35:28,259 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-7
+2026-02-09 19:35:28,259 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-8
+2026-02-09 19:35:28,260 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-8
+2026-02-09 19:35:28,260 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-8
+2026-02-09 19:35:28,261 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from 1M1B-1
+2026-02-09 19:35:28,262 INFO  ExportHelperExtension.cs: 1136 - Found 54 in 1M1B-1
+2026-02-09 19:35:28,263 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in 1M1B-1
+2026-02-09 19:35:28,264 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-4
+2026-02-09 19:35:28,265 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-4
+2026-02-09 19:35:28,265 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-4
+2026-02-09 19:35:28,265 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-4
+2026-02-09 19:35:28,266 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-4
+2026-02-09 19:35:28,266 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-4
+2026-02-09 19:35:28,267 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from 2M1 assembly-2
+2026-02-09 19:35:28,268 INFO  ExportHelperExtension.cs: 1136 - Found 161 in 2M1 assembly-2
+2026-02-09 19:35:28,268 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in 2M1 assembly-2
+2026-02-09 19:35:28,269 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-5
+2026-02-09 19:35:28,269 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-5
+2026-02-09 19:35:28,270 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-5
+2026-02-09 19:35:28,270 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-6
+2026-02-09 19:35:28,271 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-6
+2026-02-09 19:35:28,275 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-6
+2026-02-09 19:35:28,276 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-3
+2026-02-09 19:35:28,276 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-3
+2026-02-09 19:35:28,277 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-3
+2026-02-09 19:35:28,278 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x45-1
+2026-02-09 19:35:28,300 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-1
+2026-02-09 19:35:28,301 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x45-1
+2026-02-09 19:35:28,301 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x45-4
+2026-02-09 19:35:28,302 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-4
+2026-02-09 19:35:28,302 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x45-4
+2026-02-09 19:35:28,303 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x45-5
+2026-02-09 19:35:28,303 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-5
+2026-02-09 19:35:28,304 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x45-5
+2026-02-09 19:35:28,304 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x45-6
+2026-02-09 19:35:28,304 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x45-6
+2026-02-09 19:35:28,305 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x45-6
+2026-02-09 19:35:28,305 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-1
+2026-02-09 19:35:28,306 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-1
+2026-02-09 19:35:28,306 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-1
+2026-02-09 19:35:28,307 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-2
+2026-02-09 19:35:28,307 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-2
+2026-02-09 19:35:28,308 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-2
+2026-02-09 19:35:28,308 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-3
+2026-02-09 19:35:28,309 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-3
+2026-02-09 19:35:28,309 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-3
+2026-02-09 19:35:28,309 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-6
+2026-02-09 19:35:28,310 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-6
+2026-02-09 19:35:28,311 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-6
+2026-02-09 19:35:28,311 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Spacer M8x20-1
+2026-02-09 19:35:28,312 INFO  ExportHelperExtension.cs: 1136 - Found 27 in Spacer M8x20-1
+2026-02-09 19:35:28,313 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Spacer M8x20-1
+2026-02-09 19:35:28,314 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M8 Autoblocant-1
+2026-02-09 19:35:28,314 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M8 Autoblocant-1
+2026-02-09 19:35:28,315 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M8 Autoblocant-1
+2026-02-09 19:35:28,316 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Tapa 2M1C-2
+2026-02-09 19:35:28,316 INFO  ExportHelperExtension.cs: 1136 - Found 33 in Tapa 2M1C-2
+2026-02-09 19:35:28,317 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Tapa 2M1C-2
+2026-02-09 19:35:28,317 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x40-5
+2026-02-09 19:35:28,318 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x40-5
+2026-02-09 19:35:28,319 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x40-5
+2026-02-09 19:35:28,319 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from 3M2-1
+2026-02-09 19:35:28,320 INFO  ExportHelperExtension.cs: 1136 - Found 89 in 3M2-1
+2026-02-09 19:35:28,321 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in 3M2-1
+2026-02-09 19:35:28,322 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-5
+2026-02-09 19:35:28,322 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-5
+2026-02-09 19:35:28,323 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-5
+2026-02-09 19:35:28,323 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from 4M-1
+2026-02-09 19:35:28,324 INFO  ExportHelperExtension.cs: 1136 - Found 154 in 4M-1
+2026-02-09 19:35:28,325 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in 4M-1
+2026-02-09 19:35:28,325 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Base assembly-1
+2026-02-09 19:35:28,325 INFO  ExportHelperExtension.cs: 1136 - Found 44 in Base assembly-1
+2026-02-09 19:35:28,326 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Base assembly-1
+2026-02-09 19:35:28,326 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Tapa 3M1C-2
+2026-02-09 19:35:28,327 INFO  ExportHelperExtension.cs: 1136 - Found 34 in Tapa 3M1C-2
+2026-02-09 19:35:28,328 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Tapa 3M1C-2
+2026-02-09 19:35:28,328 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M8x65-1
+2026-02-09 19:35:28,330 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M8x65-1
+2026-02-09 19:35:28,331 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M8x65-1
+2026-02-09 19:35:28,332 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from 2M2-1
+2026-02-09 19:35:28,332 INFO  ExportHelperExtension.cs: 1136 - Found 70 in 2M2-1
+2026-02-09 19:35:28,333 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in 2M2-1
+2026-02-09 19:35:28,333 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from 3M1-1
+2026-02-09 19:35:28,334 INFO  ExportHelperExtension.cs: 1136 - Found 95 in 3M1-1
+2026-02-09 19:35:28,335 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in 3M1-1
+2026-02-09 19:35:28,335 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Tapa 3M1C-3
+2026-02-09 19:35:28,335 INFO  ExportHelperExtension.cs: 1136 - Found 34 in Tapa 3M1C-3
+2026-02-09 19:35:28,336 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Tapa 3M1C-3
+2026-02-09 19:35:28,336 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Tapa 2M1C-1
+2026-02-09 19:35:28,337 INFO  ExportHelperExtension.cs: 1136 - Found 33 in Tapa 2M1C-1
+2026-02-09 19:35:28,337 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Tapa 2M1C-1
+2026-02-09 19:35:28,337 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from 1M3-1
+2026-02-09 19:35:28,338 INFO  ExportHelperExtension.cs: 1136 - Found 43 in 1M3-1
+2026-02-09 19:35:28,338 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in 1M3-1
+2026-02-09 19:35:28,339 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x30-3
+2026-02-09 19:35:28,339 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-3
+2026-02-09 19:35:28,340 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x30-3
+2026-02-09 19:35:28,340 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x30-2
+2026-02-09 19:35:28,341 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-2
+2026-02-09 19:35:28,341 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x30-2
+2026-02-09 19:35:28,341 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x30-1
+2026-02-09 19:35:28,342 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-1
+2026-02-09 19:35:28,342 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x30-1
+2026-02-09 19:35:28,343 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x30-4
+2026-02-09 19:35:28,343 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-4
+2026-02-09 19:35:28,343 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x30-4
+2026-02-09 19:35:28,344 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x40-8
+2026-02-09 19:35:28,344 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x40-8
+2026-02-09 19:35:28,345 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x40-8
+2026-02-09 19:35:28,346 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x40-9
+2026-02-09 19:35:28,346 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x40-9
+2026-02-09 19:35:28,347 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x40-9
+2026-02-09 19:35:28,348 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x30-7
+2026-02-09 19:35:28,348 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-7
+2026-02-09 19:35:28,349 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x30-7
+2026-02-09 19:35:28,349 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x30-8
+2026-02-09 19:35:28,349 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x30-8
+2026-02-09 19:35:28,350 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x30-8
+2026-02-09 19:35:28,350 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4x40-7
+2026-02-09 19:35:28,351 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M4x40-7
+2026-02-09 19:35:28,351 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4x40-7
+2026-02-09 19:35:28,351 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-1
+2026-02-09 19:35:28,352 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-1
+2026-02-09 19:35:28,352 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-1
+2026-02-09 19:35:28,353 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-2
+2026-02-09 19:35:28,353 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-2
+2026-02-09 19:35:28,353 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-2
+2026-02-09 19:35:28,354 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-3
+2026-02-09 19:35:28,354 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-3
+2026-02-09 19:35:28,355 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-3
+2026-02-09 19:35:28,355 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-10
+2026-02-09 19:35:28,356 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-10
+2026-02-09 19:35:28,356 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-10
+2026-02-09 19:35:28,356 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-6
+2026-02-09 19:35:28,378 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-6
+2026-02-09 19:35:28,380 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-6
+2026-02-09 19:35:28,381 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-14
+2026-02-09 19:35:28,381 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-14
+2026-02-09 19:35:28,382 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-14
+2026-02-09 19:35:28,382 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-9
+2026-02-09 19:35:28,383 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-9
+2026-02-09 19:35:28,383 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-9
+2026-02-09 19:35:28,384 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-18
+2026-02-09 19:35:28,384 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-18
+2026-02-09 19:35:28,385 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-18
+2026-02-09 19:35:28,385 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-8
+2026-02-09 19:35:28,386 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-8
+2026-02-09 19:35:28,386 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-8
+2026-02-09 19:35:28,386 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-11
+2026-02-09 19:35:28,387 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-11
+2026-02-09 19:35:28,387 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-11
+2026-02-09 19:35:28,388 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-13
+2026-02-09 19:35:28,388 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-13
+2026-02-09 19:35:28,389 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-13
+2026-02-09 19:35:28,389 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-16
+2026-02-09 19:35:28,390 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-16
+2026-02-09 19:35:28,390 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-16
+2026-02-09 19:35:28,391 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-12
+2026-02-09 19:35:28,391 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-12
+2026-02-09 19:35:28,392 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-12
+2026-02-09 19:35:28,392 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-4
+2026-02-09 19:35:28,393 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-4
+2026-02-09 19:35:28,393 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-4
+2026-02-09 19:35:28,394 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-7
+2026-02-09 19:35:28,394 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-7
+2026-02-09 19:35:28,395 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-7
+2026-02-09 19:35:28,395 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M4-11
+2026-02-09 19:35:28,396 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M4-11
+2026-02-09 19:35:28,397 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M4-11
+2026-02-09 19:35:28,397 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-7
+2026-02-09 19:35:28,398 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-7
+2026-02-09 19:35:28,398 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-7
+2026-02-09 19:35:28,399 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-15
+2026-02-09 19:35:28,399 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-15
+2026-02-09 19:35:28,399 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-15
+2026-02-09 19:35:28,400 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-17
+2026-02-09 19:35:28,400 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-17
+2026-02-09 19:35:28,401 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-17
+2026-02-09 19:35:28,401 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5x30-3
+2026-02-09 19:35:28,401 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M5x30-3
+2026-02-09 19:35:28,402 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5x30-3
+2026-02-09 19:35:28,402 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-14
+2026-02-09 19:35:28,403 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-14
+2026-02-09 19:35:28,403 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-14
+2026-02-09 19:35:28,403 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M5-3
+2026-02-09 19:35:28,404 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M5-3
+2026-02-09 19:35:28,404 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M5-3
+2026-02-09 19:35:28,405 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5x30-4
+2026-02-09 19:35:28,405 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M5x30-4
+2026-02-09 19:35:28,406 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5x30-4
+2026-02-09 19:35:28,406 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M5-1
+2026-02-09 19:35:28,406 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M5-1
+2026-02-09 19:35:28,407 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M5-1
+2026-02-09 19:35:28,407 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M4 Locknut-19
+2026-02-09 19:35:28,408 INFO  ExportHelperExtension.cs: 1136 - Found 35 in M4 Locknut-19
+2026-02-09 19:35:28,408 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M4 Locknut-19
+2026-02-09 19:35:28,408 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M3x10-6
+2026-02-09 19:35:28,409 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-6
+2026-02-09 19:35:28,410 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M3x10-6
+2026-02-09 19:35:28,410 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M5-2
+2026-02-09 19:35:28,411 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M5-2
+2026-02-09 19:35:28,411 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M5-2
+2026-02-09 19:35:28,412 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from Volandera M5-4
+2026-02-09 19:35:28,413 INFO  ExportHelperExtension.cs: 1136 - Found 26 in Volandera M5-4
+2026-02-09 19:35:28,413 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in Volandera M5-4
+2026-02-09 19:35:28,414 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-9
+2026-02-09 19:35:28,414 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-9
+2026-02-09 19:35:28,415 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-9
+2026-02-09 19:35:28,416 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5x30-2
+2026-02-09 19:35:28,416 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M5x30-2
+2026-02-09 19:35:28,416 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5x30-2
+2026-02-09 19:35:28,417 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5x30-1
+2026-02-09 19:35:28,417 INFO  ExportHelperExtension.cs: 1136 - Found 31 in M5x30-1
+2026-02-09 19:35:28,418 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5x30-1
+2026-02-09 19:35:28,418 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-13
+2026-02-09 19:35:28,418 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-13
+2026-02-09 19:35:28,419 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-13
+2026-02-09 19:35:28,419 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M5 Lock-15
+2026-02-09 19:35:28,420 INFO  ExportHelperExtension.cs: 1136 - Found 33 in M5 Lock-15
+2026-02-09 19:35:28,420 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M5 Lock-15
+2026-02-09 19:35:28,421 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M3x10-2
+2026-02-09 19:35:28,421 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-2
+2026-02-09 19:35:28,422 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M3x10-2
+2026-02-09 19:35:28,422 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M3x10-1
+2026-02-09 19:35:28,422 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-1
+2026-02-09 19:35:28,423 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M3x10-1
+2026-02-09 19:35:28,423 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M3x10-5
+2026-02-09 19:35:28,424 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-5
+2026-02-09 19:35:28,424 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M3x10-5
+2026-02-09 19:35:28,425 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M3x10-7
+2026-02-09 19:35:28,425 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-7
+2026-02-09 19:35:28,426 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M3x10-7
+2026-02-09 19:35:28,426 INFO  ExportHelperExtension.cs: 1125 - Retrieving features of type [RefAxis] from M3x10-8
+2026-02-09 19:35:28,426 INFO  ExportHelperExtension.cs: 1136 - Found 32 in M3x10-8
+2026-02-09 19:35:28,427 INFO  ExportHelperExtension.cs: 1145 - Found 0 features of type [RefAxis] in M3x10-8
+2026-02-09 19:35:28,495 INFO  ExportPropertyManager.cs: 1142 - AfterClose called. This method no longer throws an Exception. It just silently does nothing. Ok, except for this logging message
+2026-02-09 19:35:57,636 INFO  AssemblyExportForm.cs: 253 - Completing URDF export
+2026-02-09 19:35:57,646 INFO  ConfigurationSerialization.cs: 276 - URDF Configuration found
+<Link z:Id="i1" xmlns="http://schemas.datacontract.org/2004/07/SW2URDF" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/"><Attributes><Attribute z:Id="i2"><AttributeType>name</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema">base_link</Value></Attribute></Attributes><ChildElements><URDFElement z:Id="i3" i:type="Inertial"><Attributes/><ChildElements><URDFElement z:Id="i4" i:type="Origin"><Attributes><Attribute z:Id="i5"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i6"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i6"/><XYZAttribute z:Ref="i5"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i7" i:type="Mass"><Attributes><Attribute z:Id="i8"><AttributeType>value</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute></Attributes><ChildElements/><ElementName>mass</ElementName><required>false</required><ValueAttribute z:Ref="i8"/></URDFElement><URDFElement z:Id="i9" i:type="Inertia"><Attributes><Attribute z:Id="i10"><AttributeType>ixx</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i11"><AttributeType>ixy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i12"><AttributeType>ixz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i13"><AttributeType>iyy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i14"><AttributeType>iyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i15"><AttributeType>izz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute></Attributes><ChildElements/><ElementName>inertia</ElementName><required>false</required><IxxAttribute z:Ref="i10"/><IxyAttribute z:Ref="i11"/><IxzAttribute z:Ref="i12"/><IyyAttribute z:Ref="i13"/><IyzAttribute z:Ref="i14"/><IzzAttribute z:Ref="i15"/></URDFElement></ChildElements><ElementName>inertial</ElementName><required>false</required><Inertia z:Ref="i9"/><Mass z:Ref="i7"/><Origin z:Ref="i4"/></URDFElement><URDFElement z:Id="i16" i:type="Visual"><Attributes/><ChildElements><URDFElement z:Id="i17" i:type="Origin"><Attributes><Attribute z:Id="i18"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i19"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i19"/><XYZAttribute z:Ref="i18"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i20" i:type="Geometry"><Attributes/><ChildElements><URDFElement z:Id="i21" i:type="Mesh"><Attributes><Attribute z:Id="i22"><AttributeType>filename</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>mesh</ElementName><required>false</required><FilenameAttribute z:Ref="i22"/></URDFElement></ChildElements><ElementName>geometry</ElementName><required>true</required><Mesh z:Ref="i21"/></URDFElement><URDFElement z:Id="i23" i:type="Material"><Attributes><Attribute z:Id="i24"><AttributeType>name</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements><URDFElement z:Id="i25" i:type="Color"><Attributes><Attribute z:Id="i26"><AttributeType>rgba</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>1</a:double><a:double>1</a:double><a:double>1</a:double><a:double>1</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>color</ElementName><required>false</required><RGBAAttribute z:Ref="i26"/></URDFElement><URDFElement z:Id="i27" i:type="Texture"><Attributes><Attribute z:Id="i28"><AttributeType>filename</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>texture</ElementName><required>false</required><FilenameAttribute z:Ref="i28"/><wFilename/></URDFElement></ChildElements><ElementName>material</ElementName><required>false</required><Color z:Ref="i25"/><NameAttribute z:Ref="i24"/><Texture z:Ref="i27"/></URDFElement></ChildElements><ElementName>visual</ElementName><required>false</required><Geometry z:Ref="i20"/><Material z:Ref="i23"/><Origin z:Ref="i17"/></URDFElement><URDFElement z:Id="i29" i:type="Collision"><Attributes/><ChildElements><URDFElement z:Id="i30" i:type="Origin"><Attributes><Attribute z:Id="i31"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i32"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i32"/><XYZAttribute z:Ref="i31"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i33" i:type="Geometry"><Attributes/><ChildElements><URDFElement z:Id="i34" i:type="Mesh"><Attributes><Attribute z:Id="i35"><AttributeType>filename</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>mesh</ElementName><required>false</required><FilenameAttribute z:Ref="i35"/></URDFElement></ChildElements><ElementName>geometry</ElementName><required>true</required><Mesh z:Ref="i34"/></URDFElement></ChildElements><ElementName>collision</ElementName><required>false</required><Geometry z:Ref="i33"/><Origin z:Ref="i30"/></URDFElement><URDFElement z:Id="i36" i:type="Joint"><Attributes><Attribute z:Id="i37"><AttributeType>name</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute><Attribute z:Id="i38"><AttributeType>type</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements><URDFElement z:Id="i39" i:type="Origin"><Attributes><Attribute z:Id="i40"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i41"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i41"/><XYZAttribute z:Ref="i40"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i42" i:type="ParentLink"><Attributes><Attribute z:Id="i43"><AttributeType>link</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements/><ElementName>parent</ElementName><required>true</required><NameAttribute z:Ref="i43"/></URDFElement><URDFElement z:Id="i44" i:type="ChildLink"><Attributes><Attribute z:Id="i45"><AttributeType>link</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements/><ElementName>child</ElementName><required>true</required><NameAttribute z:Ref="i45"/></URDFElement><URDFElement z:Id="i46" i:type="Axis"><Attributes><Attribute z:Id="i47"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>axis</ElementName><required>false</required><XYZAttribute z:Ref="i47"/></URDFElement><URDFElement z:Id="i48" i:type="Limit"><Attributes><Attribute z:Id="i49"><AttributeType>lower</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i50"><AttributeType>upper</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i51"><AttributeType>effort</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i52"><AttributeType>velocity</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>limit</ElementName><required>false</required><EffortAttribute z:Ref="i51"/><LowerAttribute z:Ref="i49"/><UpperAttribute z:Ref="i50"/><VelocityAttribute z:Ref="i52"/></URDFElement><URDFElement z:Id="i53" i:type="Calibration"><Attributes><Attribute z:Id="i54"><AttributeType>rising</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i55"><AttributeType>falling</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>calibration</ElementName><required>false</required><FallingAttribute z:Ref="i55"/><RisingAttribute z:Ref="i54"/></URDFElement><URDFElement z:Id="i56" i:type="Dynamics"><Attributes><Attribute z:Id="i57"><AttributeType>damping</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i58"><AttributeType>friction</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>dynamics</ElementName><required>false</required><DampingAttribute z:Ref="i57"/><FrictionAttribute z:Ref="i58"/></URDFElement><URDFElement z:Id="i59" i:type="SafetyController"><Attributes><Attribute z:Id="i60"><AttributeType>soft_upper_limit</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i61"><AttributeType>soft_lower_limit</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i62"><AttributeType>k_position</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i63"><AttributeType>k_velocity</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>safety_controller</ElementName><required>false</required><KPositionAttribute z:Ref="i62"/><KVelocityAttribute z:Ref="i63"/><SoftLowerAttribute z:Ref="i61"/><SoftUpperAttribute z:Ref="i60"/></URDFElement><URDFElement z:Id="i64" i:type="Mimic"><Attributes><Attribute z:Id="i65"><AttributeType>joint</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i66"><AttributeType>multiplier</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i67"><AttributeType>offset</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>mimic</ElementName><required>false</required><JointNameAttribute z:Ref="i65"/><MultiplierAttribute z:Ref="i66"/><OffsetAttribute z:Ref="i67"/></URDFElement></ChildElements><ElementName>joint</ElementName><required>false</required><Axis z:Ref="i46"/><AxisName/><Calibration z:Ref="i53"/><Child z:Ref="i44"/><CoordinateSystemName>Sistema de coordenadas1</CoordinateSystemName><Dynamics z:Ref="i56"/><Limit z:Ref="i48"/><Mimic z:Ref="i64"/><NameAttribute z:Ref="i37"/><Origin z:Ref="i39"/><Parent z:Ref="i42"/><Safety z:Ref="i59"/><TypeAttribute z:Ref="i38"/></URDFElement></ChildElements><ElementName>link</ElementName><required>true</required><Children><Link z:Id="i68"><Attributes><Attribute z:Id="i69"><AttributeType>name</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema">link1</Value></Attribute></Attributes><ChildElements><URDFElement z:Id="i70" i:type="Inertial"><Attributes/><ChildElements><URDFElement z:Id="i71" i:type="Origin"><Attributes><Attribute z:Id="i72"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i73"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i73"/><XYZAttribute z:Ref="i72"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i74" i:type="Mass"><Attributes><Attribute z:Id="i75"><AttributeType>value</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute></Attributes><ChildElements/><ElementName>mass</ElementName><required>false</required><ValueAttribute z:Ref="i75"/></URDFElement><URDFElement z:Id="i76" i:type="Inertia"><Attributes><Attribute z:Id="i77"><AttributeType>ixx</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i78"><AttributeType>ixy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i79"><AttributeType>ixz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i80"><AttributeType>iyy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i81"><AttributeType>iyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute><Attribute z:Id="i82"><AttributeType>izz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:double" xmlns:a="http://www.w3.org/2001/XMLSchema">0</Value></Attribute></Attributes><ChildElements/><ElementName>inertia</ElementName><required>false</required><IxxAttribute z:Ref="i77"/><IxyAttribute z:Ref="i78"/><IxzAttribute z:Ref="i79"/><IyyAttribute z:Ref="i80"/><IyzAttribute z:Ref="i81"/><IzzAttribute z:Ref="i82"/></URDFElement></ChildElements><ElementName>inertial</ElementName><required>false</required><Inertia z:Ref="i76"/><Mass z:Ref="i74"/><Origin z:Ref="i71"/></URDFElement><URDFElement z:Id="i83" i:type="Visual"><Attributes/><ChildElements><URDFElement z:Id="i84" i:type="Origin"><Attributes><Attribute z:Id="i85"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i86"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i86"/><XYZAttribute z:Ref="i85"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i87" i:type="Geometry"><Attributes/><ChildElements><URDFElement z:Id="i88" i:type="Mesh"><Attributes><Attribute z:Id="i89"><AttributeType>filename</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>mesh</ElementName><required>false</required><FilenameAttribute z:Ref="i89"/></URDFElement></ChildElements><ElementName>geometry</ElementName><required>true</required><Mesh z:Ref="i88"/></URDFElement><URDFElement z:Id="i90" i:type="Material"><Attributes><Attribute z:Id="i91"><AttributeType>name</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements><URDFElement z:Id="i92" i:type="Color"><Attributes><Attribute z:Id="i93"><AttributeType>rgba</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>1</a:double><a:double>1</a:double><a:double>1</a:double><a:double>1</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>color</ElementName><required>false</required><RGBAAttribute z:Ref="i93"/></URDFElement><URDFElement z:Id="i94" i:type="Texture"><Attributes><Attribute z:Id="i95"><AttributeType>filename</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>texture</ElementName><required>false</required><FilenameAttribute z:Ref="i95"/><wFilename/></URDFElement></ChildElements><ElementName>material</ElementName><required>false</required><Color z:Ref="i92"/><NameAttribute z:Ref="i91"/><Texture z:Ref="i94"/></URDFElement></ChildElements><ElementName>visual</ElementName><required>false</required><Geometry z:Ref="i87"/><Material z:Ref="i90"/><Origin z:Ref="i84"/></URDFElement><URDFElement z:Id="i96" i:type="Collision"><Attributes/><ChildElements><URDFElement z:Id="i97" i:type="Origin"><Attributes><Attribute z:Id="i98"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i99"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i99"/><XYZAttribute z:Ref="i98"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i100" i:type="Geometry"><Attributes/><ChildElements><URDFElement z:Id="i101" i:type="Mesh"><Attributes><Attribute z:Id="i102"><AttributeType>filename</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>mesh</ElementName><required>false</required><FilenameAttribute z:Ref="i102"/></URDFElement></ChildElements><ElementName>geometry</ElementName><required>true</required><Mesh z:Ref="i101"/></URDFElement></ChildElements><ElementName>collision</ElementName><required>false</required><Geometry z:Ref="i100"/><Origin z:Ref="i97"/></URDFElement><URDFElement z:Id="i103" i:type="Joint"><Attributes><Attribute z:Id="i104"><AttributeType>name</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema">jont1</Value></Attribute><Attribute z:Id="i105"><AttributeType>type</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema">revolute</Value></Attribute></Attributes><ChildElements><URDFElement z:Id="i106" i:type="Origin"><Attributes><Attribute z:Id="i107"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute><Attribute z:Id="i108"><AttributeType>rpy</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>origin</ElementName><required>false</required><RPYAttribute z:Ref="i108"/><XYZAttribute z:Ref="i107"/><isCustomized>false</isCustomized></URDFElement><URDFElement z:Id="i109" i:type="ParentLink"><Attributes><Attribute z:Id="i110"><AttributeType>link</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements/><ElementName>parent</ElementName><required>true</required><NameAttribute z:Ref="i110"/></URDFElement><URDFElement z:Id="i111" i:type="ChildLink"><Attributes><Attribute z:Id="i112"><AttributeType>link</AttributeType><IsRequired>true</IsRequired><Value i:type="a:string" xmlns:a="http://www.w3.org/2001/XMLSchema"/></Attribute></Attributes><ChildElements/><ElementName>child</ElementName><required>true</required><NameAttribute z:Ref="i112"/></URDFElement><URDFElement z:Id="i113" i:type="Axis"><Attributes><Attribute z:Id="i114"><AttributeType>xyz</AttributeType><IsRequired>true</IsRequired><Value i:type="a:ArrayOfdouble" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:double>0</a:double><a:double>0</a:double><a:double>0</a:double></Value></Attribute></Attributes><ChildElements/><ElementName>axis</ElementName><required>false</required><XYZAttribute z:Ref="i114"/></URDFElement><URDFElement z:Id="i115" i:type="Limit"><Attributes><Attribute z:Id="i116"><AttributeType>lower</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i117"><AttributeType>upper</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i118"><AttributeType>effort</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i119"><AttributeType>velocity</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>limit</ElementName><required>false</required><EffortAttribute z:Ref="i118"/><LowerAttribute z:Ref="i116"/><UpperAttribute z:Ref="i117"/><VelocityAttribute z:Ref="i119"/></URDFElement><URDFElement z:Id="i120" i:type="Calibration"><Attributes><Attribute z:Id="i121"><AttributeType>rising</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i122"><AttributeType>falling</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>calibration</ElementName><required>false</required><FallingAttribute z:Ref="i122"/><RisingAttribute z:Ref="i121"/></URDFElement><URDFElement z:Id="i123" i:type="Dynamics"><Attributes><Attribute z:Id="i124"><AttributeType>damping</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i125"><AttributeType>friction</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>dynamics</ElementName><required>false</required><DampingAttribute z:Ref="i124"/><FrictionAttribute z:Ref="i125"/></URDFElement><URDFElement z:Id="i126" i:type="SafetyController"><Attributes><Attribute z:Id="i127"><AttributeType>soft_upper_limit</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i128"><AttributeType>soft_lower_limit</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i129"><AttributeType>k_position</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i130"><AttributeType>k_velocity</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>safety_controller</ElementName><required>false</required><KPositionAttribute z:Ref="i129"/><KVelocityAttribute z:Ref="i130"/><SoftLowerAttribute z:Ref="i128"/><SoftUpperAttribute z:Ref="i127"/></URDFElement><URDFElement z:Id="i131" i:type="Mimic"><Attributes><Attribute z:Id="i132"><AttributeType>joint</AttributeType><IsRequired>true</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i133"><AttributeType>multiplier</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute><Attribute z:Id="i134"><AttributeType>offset</AttributeType><IsRequired>false</IsRequired><Value i:nil="true"/></Attribute></Attributes><ChildElements/><ElementName>mimic</ElementName><required>false</required><JointNameAttribute z:Ref="i132"/><MultiplierAttribute z:Ref="i133"/><OffsetAttribute z:Ref="i134"/></URDFElement></ChildElements><ElementName>joint</ElementName><required>false</required><Axis z:Ref="i113"/><AxisName>Automatically Generate</AxisName><Calibration z:Ref="i120"/><Child z:Ref="i111"/><CoordinateSystemName>Link1 Coordinate &lt;2M1 assembly-2&gt;</CoordinateSystemName><Dynamics z:Ref="i123"/><Limit z:Ref="i115"/><Mimic z:Ref="i131"/><NameAttribute z:Ref="i104"/><Origin z:Ref="i106"/><Parent z:Ref="i109"/><Safety z:Ref="i126"/><TypeAttribute z:Ref="i105"/></URDFElement></ChildElements><ElementName>link</ElementName><required>true</required><Children/><Collision z:Ref="i96"/><Inertial z:Ref="i70"/><Joint z:Ref="i103"/><NameAttribute z:Ref="i69"/><Parent z:Ref="i1"/><STLQualityFine>false</STLQualityFine><SWComponentPIDs xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:base64Binary>sDYAAAUAAAD//v8jMgBNADEAIABhAHMAcwBlAG0AYgBsAHkALQAyAEAAQgBDAE4AMwBEACAATQBvAHYAZQBvACAAYQBzAHMAZQBtAGIAbAB5AAQAAAAQAAAAAQAAAAEAAAAWAAAA</a:base64Binary></SWComponentPIDs><SWMainComponentPID i:nil="true"/><Visual z:Ref="i83"/><isFixedFrame>false</isFixedFrame><isIncomplete>false</isIncomplete></Link></Children><Collision z:Ref="i29"/><Inertial z:Ref="i3"/><Joint z:Ref="i36"/><NameAttribute z:Ref="i2"/><Parent i:nil="true"/><STLQualityFine>false</STLQualityFine><SWComponentPIDs xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:base64Binary>sDYAAAUAAAD//v8gVABhAHAAYQAgADMATQAxAEMALQAyAEAAQgBDAE4AMwBEACAATQBvAHYAZQBvACAAYQBzAHMAZQBtAGIAbAB5AAQAAAAQAAAAAQAAAAEAAABhAQAA</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQAzAHgAMQAwAC0AOABAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAAGAgAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQAzAHgAMQAwAC0ANwBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAAFwgAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQAzAHgAMQAwAC0ANgBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAAFQgAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQAzAHgAMQAwAC0ANQBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAAAwgAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQAzAHgAMQAwAC0AMgBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAA6QcAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQAzAHgAMQAwAC0AMQBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAA5wcAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8fTQA1ACAATABvAGMAawAtADEANQBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAA4AcAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8fTQA1ACAATABvAGMAawAtADEANABAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAA2QcAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8fTQA1ACAATABvAGMAawAtADEAMwBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAA1AcAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8eTQA1ACAATABvAGMAawAtADkAQABCAEMATgAzAEQAIABNAG8AdgBlAG8AIABhAHMAcwBlAG0AYgBsAHkABAAAABAAAAABAAAAAQAAALwGAAA=</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8jVgBvAGwAYQBuAGQAZQByAGEAIABNADUALQA0AEAAQgBDAE4AMwBEACAATQBvAHYAZQBvACAAYQBzAHMAZQBtAGIAbAB5AAQAAAAQAAAAAQAAAAEAAABxBgAA</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8jVgBvAGwAYQBuAGQAZQByAGEAIABNADUALQAzAEAAQgBDAE4AMwBEACAATQBvAHYAZQBvACAAYQBzAHMAZQBtAGIAbAB5AAQAAAAQAAAAAQAAAAEAAABtBgAA</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8jVgBvAGwAYQBuAGQAZQByAGEAIABNADUALQAyAEAAQgBDAE4AMwBEACAATQBvAHYAZQBvACAAYQBzAHMAZQBtAGIAbAB5AAQAAAAQAAAAAQAAAAEAAABOBgAA</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8jVgBvAGwAYQBuAGQAZQByAGEAIABNADUALQAxAEAAQgBDAE4AMwBEACAATQBvAHYAZQBvACAAYQBzAHMAZQBtAGIAbAB5AAQAAAAQAAAAAQAAAAEAAABNBgAA</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQA1AHgAMwAwAC0ANABAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAASwYAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQA1AHgAMwAwAC0AMwBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAASQYAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQA1AHgAMwAwAC0AMgBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAASAYAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQA1AHgAMwAwAC0AMQBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAARwYAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8iTQA0ACAATABvAGMAawBuAHUAdAAtADEAOQBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAANAYAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8iTQA0ACAATABvAGMAawBuAHUAdAAtADEAOABAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAAMwYAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8iTQA0ACAATABvAGMAawBuAHUAdAAtADEANwBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAAMgYAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8iTQA0ACAATABvAGMAawBuAHUAdAAtADEANgBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAAMQYAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8iTQA0ACAATABvAGMAawBuAHUAdAAtADEANQBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAAMAYAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8iTQA0ACAATABvAGMAawBuAHUAdAAtADEANABAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAALwYAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8iTQA0ACAATABvAGMAawBuAHUAdAAtADEAMwBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAALgYAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8iTQA0ACAATABvAGMAawBuAHUAdAAtADEAMgBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAALQYAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8iTQA0ACAATABvAGMAawBuAHUAdAAtADEAMQBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAApQUAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8hTQA0ACAATABvAGMAawBuAHUAdAAtADcAQABCAEMATgAzAEQAIABNAG8AdgBlAG8AIABhAHMAcwBlAG0AYgBsAHkABAAAABAAAAABAAAAAQAAAHoFAAA=</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8kVgBvAGwAYQBuAGQAZQByAGEAIABNADQALQAxADEAQABCAEMATgAzAEQAIABNAG8AdgBlAG8AIABhAHMAcwBlAG0AYgBsAHkABAAAABAAAAABAAAAAQAAACUFAAA=</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8kVgBvAGwAYQBuAGQAZQByAGEAIABNADQALQAxADAAQABCAEMATgAzAEQAIABNAG8AdgBlAG8AIABhAHMAcwBlAG0AYgBsAHkABAAAABAAAAABAAAAAQAAAIIEAAA=</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8jVgBvAGwAYQBuAGQAZQByAGEAIABNADQALQA5AEAAQgBDAE4AMwBEACAATQBvAHYAZQBvACAAYQBzAHMAZQBtAGIAbAB5AAQAAAAQAAAAAQAAAAEAAABDBAAA</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8jVgBvAGwAYQBuAGQAZQByAGEAIABNADQALQA4AEAAQgBDAE4AMwBEACAATQBvAHYAZQBvACAAYQBzAHMAZQBtAGIAbAB5AAQAAAAQAAAAAQAAAAEAAADiAwAA</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8jVgBvAGwAYQBuAGQAZQByAGEAIABNADQALQA3AEAAQgBDAE4AMwBEACAATQBvAHYAZQBvACAAYQBzAHMAZQBtAGIAbAB5AAQAAAAQAAAAAQAAAAEAAACdAwAA</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8jVgBvAGwAYQBuAGQAZQByAGEAIABNADQALQA2AEAAQgBDAE4AMwBEACAATQBvAHYAZQBvACAAYQBzAHMAZQBtAGIAbAB5AAQAAAAQAAAAAQAAAAEAAABKAwAA</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8jVgBvAGwAYQBuAGQAZQByAGEAIABNADQALQA0AEAAQgBDAE4AMwBEACAATQBvAHYAZQBvACAAYQBzAHMAZQBtAGIAbAB5AAQAAAAQAAAAAQAAAAEAAADBAgAA</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8jVgBvAGwAYQBuAGQAZQByAGEAIABNADQALQAzAEAAQgBDAE4AMwBEACAATQBvAHYAZQBvACAAYQBzAHMAZQBtAGIAbAB5AAQAAAAQAAAAAQAAAAEAAABKAgAA</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8jVgBvAGwAYQBuAGQAZQByAGEAIABNADQALQAyAEAAQgBDAE4AMwBEACAATQBvAHYAZQBvACAAYQBzAHMAZQBtAGIAbAB5AAQAAAAQAAAAAQAAAAEAAAA1AgAA</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8jVgBvAGwAYQBuAGQAZQByAGEAIABNADQALQAxAEAAQgBDAE4AMwBEACAATQBvAHYAZQBvACAAYQBzAHMAZQBtAGIAbAB5AAQAAAAQAAAAAQAAAAEAAAA0AgAA</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQA0AHgAMwAwAC0AOABAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAAJAIAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQA0AHgAMwAwAC0ANwBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAAIwIAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQA0AHgAMwAwAC0ANABAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAA3gEAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQA0AHgAMwAwAC0AMwBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAA3QEAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQA0AHgAMwAwAC0AMgBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAA3AEAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQA0AHgAMwAwAC0AMQBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAA2wEAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQA0AHgANAAwAC0AOQBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAA0gEAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQA0AHgANAAwAC0AOABAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAA0QEAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQA0AHgANAAwAC0ANwBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAA0AEAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8cTQA0AHgANAAwAC0ANQBAAEIAQwBOADMARAAgAE0AbwB2AGUAbwAgAGEAcwBzAGUAbQBiAGwAeQAEAAAAEAAAAAEAAAABAAAAsgEAAA==</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8aMQBNADMALQAxAEAAQgBDAE4AMwBEACAATQBvAHYAZQBvACAAYQBzAHMAZQBtAGIAbAB5AAQAAAAQAAAAAQAAAAEAAABrAQAA</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8gVABhAHAAYQAgADMATQAxAEMALQAzAEAAQgBDAE4AMwBEACAATQBvAHYAZQBvACAAYQBzAHMAZQBtAGIAbAB5AAQAAAAQAAAAAQAAAAEAAABlAQAA</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8kQgBhAHMAZQAgAGEAcwBzAGUAbQBiAGwAeQAtADEAQABCAEMATgAzAEQAIABNAG8AdgBlAG8AIABhAHMAcwBlAG0AYgBsAHkABAAAABAAAAABAAAAAQAAAFMBAAA=</a:base64Binary><a:base64Binary>sDYAAAUAAAD//v8jUgBvAHQAYQByAHkAIABQAGwAYQB0AGUALQAxAEAAQgBDAE4AMwBEACAATQBvAHYAZQBvACAAYQBzAHMAZQBtAGIAbAB5AAQAAAAQAAAAAQAAAAEAAAATAAAA</a:base64Binary></SWComponentPIDs><SWMainComponentPID i:nil="true"/><Visual z:Ref="i16"/><isFixedFrame>false</isFixedFrame><isIncomplete>false</isIncomplete></Link>
+2026-02-09 19:36:30,208 INFO  AssemblyExportForm.cs: 309 - Saving URDF package to C:\Users\Tiago\Desktop\BCN3D Moveo assembly
+2026-02-09 19:36:30,210 INFO  ExportHelper.cs: 147 - Beginning the export process
+2026-02-09 19:36:30,212 INFO  ExportHelper.cs: 153 - Creating package directories with name BCN3D Moveo assembly and save path C:\Users\Tiago\Desktop
+2026-02-09 19:36:31,360 INFO  ExportHelper.cs: 162 - Creating CMakeLists.txt at C:\Users\Tiago\Desktop\BCN3D Moveo assembly\CMakeLists.txt
+2026-02-09 19:36:31,362 INFO  ExportHelper.cs: 166 - Creating joint names config at C:\Users\Tiago\Desktop\BCN3D Moveo assembly\config\joint_names_BCN3D Moveo assembly.yaml
+2026-02-09 19:36:31,363 INFO  ExportHelper.cs: 170 - Creating package.xml at C:\Users\Tiago\Desktop\BCN3D Moveo assembly\package.xml
+2026-02-09 19:36:31,364 INFO  PackageXMLWriter.cs: 21 - Creating package.xml at C:\Users\Tiago\Desktop\BCN3D Moveo assembly\package.xml
+2026-02-09 19:36:31,367 INFO  ExportHelper.cs: 177 - Creating RVIZ launch file in C:\Users\Tiago\Desktop\BCN3D Moveo assembly\launch\
+2026-02-09 19:36:31,370 INFO  ExportHelper.cs: 182 - Creating Gazebo launch file in C:\Users\Tiago\Desktop\BCN3D Moveo assembly\launch\
+2026-02-09 19:36:31,373 INFO  ExportHelper.cs: 187 - Saving existing STL preferences
+2026-02-09 19:36:31,374 INFO  ExportHelper.cs: 450 - Saving users preferences
+2026-02-09 19:36:31,376 INFO  ExportHelper.cs: 190 - Modifying STL preferences
+2026-02-09 19:36:31,377 INFO  ExportHelper.cs: 464 - Setting STL preferences
+2026-02-09 19:36:31,395 INFO  ExportHelper.cs: 196 - Found 25 hidden components Rotary Plate-1/Sistema rodaments-5/Bearing 5mm-1, Rotary Plate-1/Sistema rodaments-5/M5x20-1, Rotary Plate-1/Sistema rodaments-5/Spacer M5x10-1, Rotary Plate-1/Sistema rodaments-6/Bearing 5mm-1, Rotary Plate-1/Sistema rodaments-6/M5x20-1, Rotary Plate-1/Sistema rodaments-6/Spacer M5x10-1, Rotary Plate-1/Sistema rodaments-1/Bearing 5mm-1, Rotary Plate-1/Sistema rodaments-1/M5x20-1, Rotary Plate-1/Sistema rodaments-1/Spacer M5x10-1, Rotary Plate-1/Sistema rodaments-2/Bearing 5mm-1, Rotary Plate-1/Sistema rodaments-2/M5x20-1, Rotary Plate-1/Sistema rodaments-2/Spacer M5x10-1, Rotary Plate-1/Sistema rodaments-3/Bearing 5mm-1, Rotary Plate-1/Sistema rodaments-3/M5x20-1, Rotary Plate-1/Sistema rodaments-3/Spacer M5x10-1, Rotary Plate-1/Sistema rodaments-4/Bearing 5mm-1, Rotary Plate-1/Sistema rodaments-4/M5x20-1, Rotary Plate-1/Sistema rodaments-4/Spacer M5x10-1, Rotary Plate-1/Sistema rodaments-7/Bearing 5mm-1, Rotary Plate-1/Sistema rodaments-7/M5x20-1, Rotary Plate-1/Sistema rodaments-7/Spacer M5x10-1, Rotary Plate-1/Sistema rodaments-8/Bearing 5mm-1, Rotary Plate-1/Sistema rodaments-8/M5x20-1, Rotary Plate-1/Sistema rodaments-8/Spacer M5x10-1, 4M-1/Gripper B Assembly-1/2-1/Servo Futaba S3003-1
+2026-02-09 19:36:31,396 INFO  ExportHelper.cs: 197 - Hiding all components
+2026-02-09 19:36:32,061 INFO  ExportHelper.cs: 204 - Beginning individual files export
+2026-02-09 19:36:32,065 INFO  ExportHelper.cs: 270 - Exporting link: base_link
+2026-02-09 19:36:32,065 INFO  ExportHelper.cs: 272 - Link base_link has 1 children
+2026-02-09 19:36:32,067 INFO  ExportHelper.cs: 270 - Exporting link: link1
+2026-02-09 19:36:32,068 INFO  ExportHelper.cs: 272 - Link link1 has 0 children
+2026-02-09 19:36:32,069 INFO  ExportHelper.cs: 317 - link1: Exporting STL with coordinate frame Link1 Coordinate <2M1 assembly-2>
+2026-02-09 19:36:32,072 INFO  ExportHelper.cs: 322 - link1: Reference geometry name 2M1 assembly-2
+2026-02-09 19:36:32,495 INFO  ExportHelper.cs: 330 - Saving STL to C:\Users\Tiago\Desktop\BCN3D Moveo assembly\meshes\link1.STL
+2026-02-09 19:36:36,373 INFO  ExportHelper.cs: 405 - Removing SW header in STL file
+2026-02-09 19:36:36,374 INFO  ExportHelper.cs: 317 - base_link: Exporting STL with coordinate frame Sistema de coordenadas1
+2026-02-09 19:36:36,375 INFO  ExportHelper.cs: 322 - base_link: Reference geometry name 
+2026-02-09 19:36:38,359 INFO  ExportHelper.cs: 330 - Saving STL to C:\Users\Tiago\Desktop\BCN3D Moveo assembly\meshes\base_link.STL
+2026-02-09 19:36:47,524 INFO  ExportHelper.cs: 405 - Removing SW header in STL file
+2026-02-09 19:36:47,525 INFO  ExportHelper.cs: 145 - Showing all components except previously hidden components
+2026-02-09 19:37:06,400 INFO  ExportHelper.cs: 145 - Resetting STL preferences
+2026-02-09 19:37:06,402 INFO  ExportHelper.cs: 478 - Returning STL preferences to user preferences
+2026-02-09 19:37:06,402 INFO  ExportHelper.cs: 228 - Writing URDF file to C:\Users\Tiago\Desktop\BCN3D Moveo assembly\urdf\BCN3D Moveo assembly.urdf
+2026-02-09 19:37:06,410 INFO  CSVImportExport.cs: 32 - Writing CSV file C:\Users\Tiago\Desktop\BCN3D Moveo assembly\urdf\BCN3D Moveo assembly.csv
+2026-02-09 19:37:06,451 ERROR CSVImportExport.cs: 130 - The following columns were not written to the CSV: Link.Joint.ChildLink.link,
+2026-02-09 19:37:06,454 ERROR CSVImportExport.cs: 130 - The following columns were not written to the CSV: Link.Joint.ChildLink.link,
+2026-02-09 19:37:06,455 INFO  ExportHelper.cs: 234 - Copying log file
+2026-02-09 19:37:06,462 INFO  ExportHelper.cs: 439 - Copying C:\Users\Tiago\sw2urdf_logs\sw2urdf.log to C:\Users\Tiago\Desktop\BCN3D Moveo assembly\export.log

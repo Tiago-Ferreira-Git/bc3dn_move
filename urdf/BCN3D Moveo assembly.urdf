@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<robot
+  name="BCN3D Moveo assembly">
+  <link
+    name="base_link">
+    <inertial>
+      <origin
+        xyz="0.034155 -0.20591 -0.049641"
+        rpy="0 0 0" />
+      <mass
+        value="8.0806" />
+      <inertia
+        ixx="0.1257"
+        ixy="-3.0974E-05"
+        ixz="-3.2253E-05"
+        iyy="0.2507"
+        iyz="-2.0228E-05"
+        izz="0.1279" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="base_link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.64314 0.61569 0.6 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="base_link.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <link
+    name="link1">
+    <inertial>
+      <origin
+        xyz="0.033499 -0.0045301 -0.067295"
+        rpy="0 0 0" />
+      <mass
+        value="3.8673" />
+      <inertia
+        ixx="0.0084713"
+        ixy="-1.2244E-07"
+        ixz="-7.8894E-07"
+        iyy="0.0073807"
+        iyz="1.3044E-08"
+        izz="0.0057792" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="link1.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.75294 0.75294 0.75294 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="link1.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="jont1"
+    type="fixed">
+    <origin
+      xyz="0.082023379533098 0.162123554620297 0.259911225067459"
+      rpy="1.5707963267949 1.5707963267949 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="link1" />
+    <axis
+      xyz="0 0 0" />
+  </joint>
+</robot>
